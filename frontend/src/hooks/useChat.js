@@ -3,13 +3,23 @@
 // Manages messages[], loading state, and the sendMessage action via chatApi.
 // Module: Custom Hooks
 
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useRef } from 'react';
 import { sendMessage as apiSendMessage } from '../api/chatApi';
 
 /**
+ * Generate a random session ID (browser-side, no crypto needed for this).
+ */
+function generateSessionId() {
+    return `sess-${Date.now()}-${Math.random().toString(36).slice(2, 9)}`;
+}
+
+/**
  * useChat hook — provides messages, loading state, and sendMessage action.
+ * Maintains a stable session ID for conversation memory.
  */
 export function useChat() {
+    const sessionIdRef = useRef(generateSessionId());
+
     const [messages, setMessages] = useState([
         {
             id: 'welcome',
@@ -35,7 +45,7 @@ export function useChat() {
         setLoading(true);
 
         try {
-            const result = await apiSendMessage(trimmed);
+            const result = await apiSendMessage(trimmed, sessionIdRef.current);
             const botMsg = {
                 id: `bot-${Date.now()}`,
                 role: 'bot',

@@ -3,7 +3,7 @@
 # either `services.matcher` or `services.matching_engine`.
 
 from services.matching_engine import (  # noqa: F401
-    MatchResult,
+    RetrievalResult,
     MatchingEngine,
     build_engine,
     get_engine,

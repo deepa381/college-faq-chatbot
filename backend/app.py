@@ -14,6 +14,7 @@ from config import CORS_ORIGINS, GEMINI_API_KEY
 from routes.chat import chat_bp
 from utils.loader import load_faq, FAQStore
 from services.matching_engine import build_engine
+from services.vector_store import index_dataset, get_vector_store
 
 # Configure root logger so all module-level messages appear in the console
 logging.basicConfig(
@@ -44,7 +45,20 @@ def create_app() -> Flask:
     )
     print(f"[KARE FAQ] Categories: {', '.join(store.categories)}")
 
-    # ------------------------------------------------ Build semantic search engine
+    # -------------------------------------------- Build ChromaDB vector store
+    try:
+        num_indexed = index_dataset()
+        vs = get_vector_store()
+    except Exception as exc:
+        logger.critical("[startup] Failed to build vector store: %s", exc)
+        sys.exit(1)
+
+    print(
+        f"[KARE FAQ] ChromaDB vector store ready — "
+        f"{vs.num_entries} entries × {vs.embedding_dim} dims."
+    )
+
+    # ----------------------------------------- Build hybrid retrieval engine
     try:
         engine = build_engine(store)
     except Exception as exc:
@@ -52,9 +66,10 @@ def create_app() -> Flask:
         sys.exit(1)
 
     print(
-        f"[KARE FAQ] Semantic engine ready — "
+        f"[KARE FAQ] Hybrid engine ready — "
         f"{engine.num_entries} entries × {engine.embedding_dim} dims."
     )
+
     print("Gemini key loaded:", bool(os.getenv("GEMINI_API_KEY")))
 
     # -------------------------------------------------- Initialise Gemini (RAG)
@@ -69,12 +84,12 @@ def create_app() -> Flask:
         except Exception as exc:
             logger.warning(
                 "[startup] Gemini initialisation failed: %s — "
-                "falling back to TF-IDF-only mode.", exc
+                "falling back to retrieval-only mode.", exc
             )
     else:
         logger.warning(
             "[startup] GEMINI_API_KEY not set. "
-            "Running in TF-IDF-only mode (no RAG generation). "
+            "Running in retrieval-only mode (no RAG generation). "
             "Set the GEMINI_API_KEY environment variable to enable RAG."
         )
 

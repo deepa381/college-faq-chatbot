@@ -6,7 +6,7 @@
 # GeminiGenerator        – stateful wrapper around the google-generativeai SDK
 # build_generator()      – factory that creates and caches the singleton
 # get_generator()        – returns the cached singleton
-# format_context(entries) – formats retrieved FAQ entries into structured text
+# format_context(entries) – formats retrieved entries into structured text
 
 from __future__ import annotations
 
@@ -24,33 +24,34 @@ logger = logging.getLogger(__name__)
 _generator: Optional["GeminiGenerator"] = None
 
 # ---------------------------------------------------------------------------
-# Grounding prompt — enforces answer fidelity to retrieved content
+# System prompt — strict RAG grounding
 # ---------------------------------------------------------------------------
 
 SYSTEM_PROMPT = (
-    "You are the official AI assistant for Kalasalingam Academy of Research "
-    "and Education (KARE).\n\n"
+    "You are a university information assistant for Kalasalingam Academy of "
+    "Research and Education (KARE).\n\n"
 
-    "Your task is to provide intelligent, well-structured, and informative "
-    "answers to user queries.\n\n"
+    "STRICT RULES:\n"
+    "1. Use ONLY the provided context documents to answer the question.\n"
+    "2. Do NOT invent, assume, or fabricate any information that is not "
+    "explicitly present in the context.\n"
+    "3. If the context is insufficient to answer the question, clearly "
+    "state that the information is currently unavailable rather than "
+    "guessing.\n"
+    "4. When the context contains relevant links, include them in your "
+    "answer so the user can explore further.\n\n"
 
-    "Instructions:\n"
-    "1. Use the retrieved FAQ entries as your primary knowledge source.\n"
-    "2. You may think analytically and combine multiple entries to create "
-    "a complete and structured answer.\n"
-    "3. If the user asks for overview, complete details, or general information, "
-    "provide a comprehensive summary using all relevant retrieved data.\n"
-    "4. You may rephrase and expand explanations for clarity, "
-    "but do not introduce unrelated external facts.\n"
-    "5. Organize answers logically when appropriate (introduction, academics, facilities, placements, etc.).\n"
-    "6. If insufficient information is retrieved, politely state that detailed "
-    "information is limited in the available data.\n\n"
+    "OUTPUT FORMAT:\n"
+    "- Provide a clear, natural, and well-structured answer.\n"
+    "- For broad or overview queries, organise information logically "
+    "(e.g. Introduction, Academics, Facilities, Placements).\n"
+    "- Use bullet points or numbered lists where they improve clarity.\n"
+    "- Do NOT mention that the information comes from FAQ entries or "
+    "retrieved documents — present it naturally.\n\n"
 
-    "Tone Requirements:\n"
-    "- Professional and informative\n"
-    "- Clear and student-friendly\n"
-    "- Avoid repeating sentences exactly as written in the entries\n"
-    "- Do not mention that the information comes from FAQ entries\n"
+    "TONE:\n"
+    "- Professional, informative, and student-friendly.\n"
+    "- Rephrase for clarity but stay faithful to the source content.\n"
 )
 
 
@@ -94,15 +95,17 @@ class GenerationResult:
 
 def format_context(entries: list[dict]) -> str:
     """
-    Format a list of retrieved FAQ entries into a structured context string
+    Format a list of retrieved entries into a structured context string
     suitable for the Gemini prompt.
 
-    Each entry is expected to have at least: question, answer, category.
+    Handles both RAG knowledge-base entries (with ``content``,
+    ``related_links``, ``keywords``) and plain FAQ entries (with
+    ``question``, ``answer``).
 
     Parameters
     ----------
     entries:
-        List of FAQ dicts from the retrieval step.
+        List of entry dicts from the retrieval step.
 
     Returns
     -------
@@ -111,10 +114,27 @@ def format_context(entries: list[dict]) -> str:
     """
     lines: list[str] = []
     for i, entry in enumerate(entries, start=1):
-        lines.append(f"--- FAQ Entry {i} ---")
+        lines.append(f"--- Context Document {i} ---")
         lines.append(f"Category: {entry.get('category', 'N/A')}")
-        lines.append(f"Question: {entry.get('question', 'N/A')}")
-        lines.append(f"Answer: {entry.get('answer', 'N/A')}")
+
+        # Title / question
+        title = entry.get("title") or entry.get("question", "N/A")
+        lines.append(f"Topic: {title}")
+
+        # Main content body
+        content = entry.get("content") or entry.get("answer", "N/A")
+        lines.append(f"Content: {content}")
+
+        # Related links (from RAG knowledge base)
+        links = entry.get("related_links")
+        if links:
+            lines.append("Related Links: " + ", ".join(links))
+
+        # Keywords for additional context
+        keywords = entry.get("keywords")
+        if keywords:
+            lines.append("Keywords: " + ", ".join(keywords))
+
         lines.append("")
     return "\n".join(lines)
 
@@ -155,26 +175,33 @@ class GeminiGenerator:
         query: str,
         retrieved_entries: list[dict],
         is_overview: bool = False,
+        conversation_history: list[dict] | None = None,
     ) -> GenerationResult:
         """
         Generate a grounded answer using Gemini.
 
         Steps
         -----
-        1. Format retrieved FAQ entries into structured context.
-        2. Build the full prompt: system instructions + context + user query.
-        3. Call the Gemini API.
-        4. Return the generated text wrapped in a GenerationResult.
+        1. Format retrieved entries into structured context.
+        2. Optionally include conversation history for multi-turn context.
+        3. Build the full prompt: system instructions + context + history
+           + user query.
+        4. Call the Gemini API.
+        5. Return the generated text wrapped in a GenerationResult.
 
         Parameters
         ----------
         query:
             The raw user question string.
         retrieved_entries:
-            List of FAQ dicts retrieved by the matching engine.
+            List of entry dicts retrieved by the matching engine.
         is_overview:
             When True, adds an extra instruction encouraging Gemini to
             produce a structured, comprehensive summary.
+        conversation_history:
+            Optional list of ``{"role": "user"|"assistant", "content": str}``
+            dicts representing previous turns.  Included in the prompt so
+            Gemini can follow up on earlier context.
 
         Returns
         -------
@@ -197,18 +224,34 @@ class GeminiGenerator:
             overview_hint = (
                 "\n=== SPECIAL INSTRUCTION ===\n"
                 "The user is asking for a broad overview. Combine ALL the "
-                "retrieved entries into a single, comprehensive, well-structured "
-                "answer. Organise the response by topic (e.g. Introduction, "
-                "Academics, Facilities, Placements, Achievements) and cover "
-                "every relevant detail from the entries.\n\n"
+                "retrieved context documents into a single, comprehensive, "
+                "well-structured answer. Organise the response by topic "
+                "(e.g. Introduction, Academics, Facilities, Placements, "
+                "Achievements) and cover every relevant detail from the "
+                "context.\n\n"
+            )
+
+        # Optional conversation history block
+        history_block = ""
+        if conversation_history:
+            turns: list[str] = []
+            for turn in conversation_history:
+                role = turn.get("role", "user").capitalize()
+                content = turn.get("content", "")
+                turns.append(f"{role}: {content}")
+            history_block = (
+                "=== CONVERSATION HISTORY ===\n\n"
+                + "\n".join(turns)
+                + "\n\n"
             )
 
         # Build the full prompt
         prompt = (
             f"{SYSTEM_PROMPT}\n"
-            f"=== RETRIEVED FAQ ENTRIES ===\n\n"
+            f"=== RETRIEVED CONTEXT ===\n\n"
             f"{context_block}\n"
             f"{overview_hint}"
+            f"{history_block}"
             f"=== USER QUESTION ===\n\n"
             f"{query}\n\n"
             f"=== YOUR ANSWER ===\n"

@@ -1,0 +1,202 @@
+[
+  {
+    "query": "What is the full name of Kalasalingam University?",
+    "expected_ids": [1],
+    "category": "General Information"
+  },
+  {
+    "query": "Where is KARE located?",
+    "expected_ids": [2],
+    "category": "General Information"
+  },
+  {
+    "query": "How many schools are there at KARE?",
+    "expected_ids": [4],
+    "category": "General Information"
+  },
+  {
+    "query": "What accreditations does Kalasalingam have?",
+    "expected_ids": [6, 7],
+    "category": "General Information"
+  },
+  {
+    "query": "What is KARE's NAAC grade?",
+    "expected_ids": [7],
+    "category": "General Information"
+  },
+  {
+    "query": "What is KARE's NIRF ranking?",
+    "expected_ids": [8],
+    "category": "General Information"
+  },
+  {
+    "query": "Is KARE a private university or government?",
+    "expected_ids": [10],
+    "category": "General Information"
+  },
+  {
+    "query": "What is the eligibility for BTech admission?",
+    "expected_ids": [19],
+    "category": "Admissions"
+  },
+  {
+    "query": "Which entrance exams does KARE accept?",
+    "expected_ids": [20],
+    "category": "Admissions"
+  },
+  {
+    "query": "How to get admission for MBA at KARE?",
+    "expected_ids": [21],
+    "category": "Admissions"
+  },
+  {
+    "query": "What is the eligibility for MCA admission?",
+    "expected_ids": [22],
+    "category": "Admissions"
+  },
+  {
+    "query": "How many BTech courses are available at KARE?",
+    "expected_ids": [46],
+    "category": "Courses & Departments"
+  },
+  {
+    "query": "How many PhD programs does KARE offer?",
+    "expected_ids": [47],
+    "category": "Courses & Departments"
+  },
+  {
+    "query": "How many MBA specializations are available?",
+    "expected_ids": [49],
+    "category": "Courses & Departments"
+  },
+  {
+    "query": "What is the fee structure for UG programs in 2026-27?",
+    "expected_ids": [66],
+    "category": "Fees & Scholarships"
+  },
+  {
+    "query": "What is the PG fee structure for 2026-27?",
+    "expected_ids": [67],
+    "category": "Fees & Scholarships"
+  },
+  {
+    "query": "How much is the first year BTech fee?",
+    "expected_ids": [68],
+    "category": "Fees & Scholarships"
+  },
+  {
+    "query": "What is the MBA fee at KARE?",
+    "expected_ids": [70],
+    "category": "Fees & Scholarships"
+  },
+  {
+    "query": "How many hostels does the university have?",
+    "expected_ids": [101],
+    "category": "Hostel & Facilities"
+  },
+  {
+    "query": "What types of hostel rooms are available?",
+    "expected_ids": [102],
+    "category": "Hostel & Facilities"
+  },
+  {
+    "query": "What is the fee for AC hostel room?",
+    "expected_ids": [104],
+    "category": "Hostel & Facilities"
+  },
+  {
+    "query": "What is the highest package offered at KARE?",
+    "expected_ids": [129],
+    "category": "Placements"
+  },
+  {
+    "query": "What is the average placement package?",
+    "expected_ids": [130],
+    "category": "Placements"
+  },
+  {
+    "query": "What is the placement rate at KARE?",
+    "expected_ids": [131],
+    "category": "Placements"
+  },
+  {
+    "query": "How many students got placed in recent years?",
+    "expected_ids": [132],
+    "category": "Placements"
+  },
+  {
+    "query": "Does KARE have a placement cell?",
+    "expected_ids": [133],
+    "category": "Placements"
+  },
+  {
+    "query": "Which top companies recruit from KARE?",
+    "expected_ids": [164],
+    "category": "Recruiters"
+  },
+  {
+    "query": "Which IT companies visit KARE for placements?",
+    "expected_ids": [165],
+    "category": "Recruiters"
+  },
+  {
+    "query": "Does TCS recruit from Kalasalingam?",
+    "expected_ids": [168],
+    "category": "Recruiters"
+  },
+  {
+    "query": "What is the annual cultural fest at KARE called?",
+    "expected_ids": [181],
+    "category": "Campus Life"
+  },
+  {
+    "query": "What clubs are available for students at KARE?",
+    "expected_ids": [184],
+    "category": "Campus Life"
+  },
+  {
+    "query": "What is the faculty to student ratio?",
+    "expected_ids": [193],
+    "category": "Faculty"
+  },
+  {
+    "query": "What percentage of faculty have PhDs?",
+    "expected_ids": [194],
+    "category": "Faculty"
+  },
+  {
+    "query": "Are there strict rules at Kalasalingam?",
+    "expected_ids": [198],
+    "category": "Rules & Regulations"
+  },
+  {
+    "query": "What are the hostel entry timings?",
+    "expected_ids": [200],
+    "category": "Rules & Regulations"
+  },
+  {
+    "query": "What do students like about KARE?",
+    "expected_ids": [205],
+    "category": "Student Reviews"
+  },
+  {
+    "query": "What are common complaints about KARE?",
+    "expected_ids": [206],
+    "category": "Student Reviews"
+  },
+  {
+    "query": "How do students rate the placement at KARE?",
+    "expected_ids": [208],
+    "category": "Student Reviews"
+  },
+  {
+    "query": "Does Zoho recruit from Kalasalingam University?",
+    "expected_ids": [167],
+    "category": "Recruiters"
+  },
+  {
+    "query": "What is the B.Arch admission process?",
+    "expected_ids": [23],
+    "category": "Admissions"
+  }
+]

@@ -1,302 +1,2102 @@
 [
-  {"id":1,"category":"General Information","question":"What is the full name of Kalasalingam University?","answer":"The full name is Kalasalingam Academy of Research and Education, commonly abbreviated as KARE.","source_reference":"Image 1 - General Overview"},
-  {"id":2,"category":"General Information","question":"Where is Kalasalingam University located?","answer":"Kalasalingam University (KARE) is located in Krishnankovil, Tamil Nadu.","source_reference":"Image 1 - General Overview"},
-  {"id":3,"category":"General Information","question":"When was Kalasalingam University established?","answer":"Kalasalingam University was established in 1984.","source_reference":"Image 1 - General Overview"},
-  {"id":4,"category":"General Information","question":"How many schools does KARE have?","answer":"The university has 12 schools across various disciplines.","source_reference":"Image 1 - General Overview"},
-  {"id":5,"category":"General Information","question":"Which regulatory bodies have approved Kalasalingam University?","answer":"Kalasalingam University is approved by UGC (University Grants Commission), AICTE, and COA.","source_reference":"Image 1 - General Overview"},
-  {"id":6,"category":"General Information","question":"What accreditations does KARE hold?","answer":"Kalasalingam University is accredited by the NBA and ABET, and has been awarded an A++ Grade by NAAC.","source_reference":"Image 1 - General Overview"},
-  {"id":7,"category":"General Information","question":"What is KARE's NAAC grade?","answer":"KARE has been awarded an A++ Grade by NAAC.","source_reference":"Image 1 - General Overview"},
-  {"id":8,"category":"General Information","question":"What is Kalasalingam University's NIRF ranking for B.Tech in 2025?","answer":"Kalasalingam University has been ranked 33rd for B.Tech by NIRF in 2025 in India.","source_reference":"Image 1 - General Overview"},
-  {"id":9,"category":"General Information","question":"What is KARE's Collegedunia ranking for B.Tech?","answer":"The university has been ranked 256th for B.Tech by Collegedunia in 2025.","source_reference":"Image 1 - General Overview"},
-  {"id":10,"category":"General Information","question":"What type of university is KARE?","answer":"KARE is a deemed-to-be university.","source_reference":"Image 1 - General Overview"},
-  {"id":11,"category":"General Information","question":"What is the flagship program at Kalasalingam University?","answer":"B.Tech is the flagship program offered at Kalasalingam University.","source_reference":"Image 1 - General Overview"},
-  {"id":12,"category":"General Information","question":"Is KARE ranked among top private universities in India?","answer":"Yes, students and reviewers mention KARE is ranked among the top 15 private universities in India, with a NIRF ranking below 40.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":13,"category":"General Information","question":"How is the campus environment at KARE?","answer":"The campus is described as large, beautiful, and green, surrounded by mountains near the western valley, providing a peaceful and chill climate.","source_reference":"Reviews.docx - Student Reviews"},
-  {"id":14,"category":"General Information","question":"Does KARE have a hospital on campus?","answer":"Yes, there is a hospital within the campus with a 24/7 ambulance facility, and medical treatment is completely free for students.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":15,"category":"General Information","question":"What tourist destinations are near the KARE campus?","answer":"The campus is close to popular destinations like Kodaikanal, Munnar, Coimbatore, Kanyakumari, Wayanad, and Varkala, all within approximately 300 km.","source_reference":"Reviews.docx - Manisai Polisetty Review"},
-  {"id":16,"category":"General Information","question":"What is KARE's Collegedunia ranking for M.Tech?","answer":"KARE's M.Tech program is ranked #257 out of 500 by Collegedunia.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":17,"category":"General Information","question":"Does KARE have a yoga facility on campus?","answer":"Yes, there is a yoga sala available on campus for students.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":18,"category":"General Information","question":"When did KARE open admissions for 2026?","answer":"KARE Admission 2026 was opened on February 10, 2026, and interested candidates can apply at kalasalingam.ac.in.","source_reference":"Image 1 - Key Updates"},
-  {"id":19,"category":"Admissions","question":"What is the eligibility for B.Tech admission at KARE?","answer":"The eligibility for B.Tech is 10+2 with a minimum of 50% marks and a valid JEE Main or Kalasalingam University Engineering Entrance Exam (KUEE) score.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":20,"category":"Admissions","question":"What entrance exams are accepted for B.Tech admission?","answer":"KARE accepts JEE Mains and the Kalasalingam University Engineering Entrance Exam (KUEE) for B.Tech admissions, followed by TNEA counselling.","source_reference":"Image 1 & Image 3 - Admissions Process"},
-  {"id":21,"category":"Admissions","question":"What is the eligibility for MBA admission at KARE?","answer":"MBA admission requires graduation with minimum 60% marks, and is based on CAT, MAT, TANCET, or the Kalasalingam University Test.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":22,"category":"Admissions","question":"What are the eligibility and admission criteria for MCA?","answer":"MCA requires graduation in a relevant discipline as eligibility, and admission is based on merit or a University Entrance Test.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":23,"category":"Admissions","question":"How is admission to B.Arch done at KARE?","answer":"B.Arch admission requires 10+2 with minimum 50% marks and Mathematics as a subject, and is based on NATA score.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":24,"category":"Admissions","question":"What is the eligibility for B.Sc (Nursing) admission at KARE?","answer":"B.Sc (Nursing) requires 10+2 with Physics, Chemistry, Biology and English, and admission is merit-based with an eligibility screening.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":25,"category":"Admissions","question":"How is Ph.D admission done at KARE?","answer":"Ph.D admission requires Post Graduation in a relevant field and is done through an Entrance Test plus Interview.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":26,"category":"Admissions","question":"What is the tentative JEE Mains exam date for B.Tech admissions 2026?","answer":"The JEE Mains exam date for B.Tech admissions 2026 is tentatively scheduled from January 22 to January 30, 2026.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":27,"category":"Admissions","question":"When does JEE Mains registration start for 2026 B.Tech admissions?","answer":"JEE Mains registration for B.Tech 2026 admissions tentatively started on October 30, 2025.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":28,"category":"Admissions","question":"What is the last date for JEE Mains registration for 2026 admissions?","answer":"The last date of JEE Mains registration for 2026 admissions is tentatively November 27, 2025.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":29,"category":"Admissions","question":"When will the JEE Mains result be declared for 2026 B.Tech admissions?","answer":"The JEE Mains result date is tentatively set for mid-February 2026.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":30,"category":"Admissions","question":"When does CAT registration open for MBA admissions 2026?","answer":"CAT registration for MBA admissions 2026 tentatively opened on August 1, 2025.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":31,"category":"Admissions","question":"When does CAT registration close for MBA admissions at KARE?","answer":"CAT registration closes tentatively on September 13, 2025 for MBA admissions 2026.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":32,"category":"Admissions","question":"What is the CAT test date for MBA admissions 2026?","answer":"The CAT test date for MBA admissions 2026 is tentatively November 30, 2025.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":33,"category":"Admissions","question":"When is the CAT result declared for MBA 2026 admissions?","answer":"The CAT result declaration for MBA 2026 admissions is expected in the first week of January 2026.","source_reference":"Image 2 - Admission Dates 2026"},
-  {"id":34,"category":"Admissions","question":"Does KARE conduct its own engineering entrance exam?","answer":"Yes, KARE has its own Kalasalingam University Engineering Entrance Exam (KUEE) for B.Tech admissions.","source_reference":"Image 1 - General Overview"},
-  {"id":35,"category":"Admissions","question":"What is the B.Com eligibility criteria at KARE?","answer":"B.Com requires 10+2 with minimum 55% marks and admission is merit-based.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":36,"category":"Admissions","question":"What is the eligibility for M.Sc admission at KARE?","answer":"M.Sc requires graduation with minimum 60% marks and admission is merit-based.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":37,"category":"Admissions","question":"What entrance exams does KARE accept for professional degree courses?","answer":"KARE accepts JEE Mains, NATA, GATE, KUEE, and CAT for various professional degree courses such as B.Tech, B.Arch, M.Tech, and MBA.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":38,"category":"Admissions","question":"What is the application deadline for B.Tech at KARE?","answer":"The application date for B.Tech at KARE was tentatively August 31, 2025.","source_reference":"Image 13 - B.Tech Course Listing"},
-  {"id":39,"category":"Admissions","question":"What is the application date for MBA at KARE?","answer":"The MBA application date at KARE was from June 5 to June 30, 2025.","source_reference":"Image 14 - MBA Course Listing"},
-  {"id":40,"category":"Admissions","question":"What is the application date for MCA at KARE?","answer":"The MCA application date at KARE was from June 10 to July 4, 2025.","source_reference":"Image 15 - MCA Course Listing"},
-  {"id":41,"category":"Admissions","question":"What is the application date for M.Tech at KARE?","answer":"The M.Tech application date at KARE was tentatively August 31, 2025, requiring graduation with 50% and GATE.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":42,"category":"Admissions","question":"What is the Ph.D application date at KARE?","answer":"The Ph.D application date at KARE was from March 3 to May 10, 2025.","source_reference":"Image 13 - Ph.D Course Listing"},
-  {"id":43,"category":"Admissions","question":"What is the eligibility for B.Tech Lateral entry at KARE?","answer":"B.Tech Lateral entry requires a Diploma with 60% marks.","source_reference":"Image 17 - B.Tech Lateral Course Listing"},
-  {"id":44,"category":"Admissions","question":"What is the eligibility for B.Sc admission at KARE?","answer":"B.Sc requires 10+2 from a recognized board with minimum 50% marks, and admission is merit-based.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":45,"category":"Admissions","question":"What documents are needed for KARE admission?","answer":"Students need to submit their inter marksheet, EAMCET rank card or JEE Main score card for scholarship and admission processing at KARE.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":46,"category":"Courses & Departments","question":"How many B.Tech courses does KARE offer?","answer":"KARE offers 19 B.Tech courses as a 4-year full-time program.","source_reference":"Image 13 - B.Tech Course Listing"},
-  {"id":47,"category":"Courses & Departments","question":"How many Ph.D courses are available at KARE?","answer":"KARE offers 17 Ph.D courses as a 3-year full-time program.","source_reference":"Image 13 - Ph.D Course Listing"},
-  {"id":48,"category":"Courses & Departments","question":"How many B.Sc courses are offered at KARE?","answer":"KARE offers 18 B.Sc courses as a 3-year full-time program.","source_reference":"Image 14 - B.Sc Course Listing"},
-  {"id":49,"category":"Courses & Departments","question":"How many MBA specializations does KARE offer?","answer":"KARE offers 2 MBA courses as a 2-year full-time program.","source_reference":"Image 14 - MBA Course Listing"},
-  {"id":50,"category":"Courses & Departments","question":"How many M.Tech programs does KARE offer?","answer":"KARE offers 11 M.Tech courses as a 2-year full-time program.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":51,"category":"Courses & Departments","question":"What is the duration of the B.Tech Lateral program at KARE?","answer":"The B.Tech Lateral program is a 3-year full-time program for diploma holders with 60% marks.","source_reference":"Image 17 - B.Tech Lateral Course Listing"},
-  {"id":52,"category":"Courses & Departments","question":"What is the duration of the BA+LLB program at KARE?","answer":"The BA+LLB program is a 5-year full-time program with 10+2 with 50% as eligibility.","source_reference":"Image 16 - BA.LLB Course Listing"},
-  {"id":53,"category":"Courses & Departments","question":"Does KARE offer a B.Sc Nursing program?","answer":"Yes, KARE offers a 4-year full-time B.Sc (Nursing) program with total fees of INR 5.48 Lakhs.","source_reference":"Image 15 - B.Sc Nursing Course Listing"},
-  {"id":54,"category":"Courses & Departments","question":"Does KARE offer B.Tech in Cyber Security?","answer":"Yes, KARE offers a B.Tech in Cyber Security program as confirmed by student reviews.","source_reference":"Reviews.docx - Thanikonda venkata karthik Review"},
-  {"id":55,"category":"Courses & Departments","question":"Does KARE offer B.Tech in AI and Machine Learning?","answer":"Yes, KARE offers B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":56,"category":"Courses & Departments","question":"What is the MCA IIRF ranking at KARE?","answer":"KARE's MCA program is ranked #26 out of 63 by IIRF.","source_reference":"Image 15 - MCA Course Listing"},
-  {"id":57,"category":"Courses & Departments","question":"Does KARE offer extra elective courses like Blockchain or Game Development?","answer":"Yes, KARE provides extra elective courses such as Blockchain Technology and Game Development within the B.Tech IT curriculum.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":58,"category":"Courses & Departments","question":"What is the typical class size for B.Tech programs at KARE?","answer":"The class size for B.Tech programs typically ranges from 60 to 75 students per section.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":59,"category":"Courses & Departments","question":"What programs are offered at the undergraduate level at KARE?","answer":"KARE offers B.Tech, B.Sc, B.Com, BBA, B.Arch, BA+LLB, LLB, and BSc (Nursing) as undergraduate programs.","source_reference":"Images 13-17 - Course Listings"},
-  {"id":60,"category":"Courses & Departments","question":"What postgraduate programs are available at KARE?","answer":"KARE offers MBA, MCA, M.Tech, and M.Sc as postgraduate programs.","source_reference":"Images 14-16 - Course Listings"},
-  {"id":61,"category":"Courses & Departments","question":"How many B.Com courses are available at KARE?","answer":"KARE offers 3 B.Com courses as a 3-year full-time program, as per the course listing.","source_reference":"Image 17 - B.Com Course Listing"},
-  {"id":62,"category":"Courses & Departments","question":"Does KARE offer a BBA program?","answer":"Yes, KARE offers a Bachelor of Business Administration (BBA) program as a 3-year full-time course.","source_reference":"Image 16 - BBA Course Listing"},
-  {"id":63,"category":"Courses & Departments","question":"Does KARE offer a B.Tech in Information Technology?","answer":"Yes, KARE offers B.Tech in Information Technology, as confirmed by student reviewers enrolled in the program.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":64,"category":"Courses & Departments","question":"How many exams are conducted per semester at KARE?","answer":"Each semester includes 2 sessional (mid) exams, 1 mid practical, 1 end practical, and 1 final theory semester examination.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":65,"category":"Courses & Departments","question":"How is GPA calculated at KARE?","answer":"KARE uses a relative grading method for GPA calculation, which helps students score well more easily.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":66,"category":"Fees & Scholarships","question":"What is the UG fee structure for 2026-27 at KARE?","answer":"The UG fee structure for 2026-27 has been released, with the total academic fee ranging from INR 1 Lakh to INR 8.2 Lakhs.","source_reference":"Image 1 - Key Updates"},
-  {"id":67,"category":"Fees & Scholarships","question":"What is the PG fee structure for 2026-27?","answer":"The PG fee structure for 2026-27 shows the total academic fee ranging from INR 90,000 to INR 3.34 Lakhs.","source_reference":"Image 1 - Key Updates"},
-  {"id":68,"category":"Fees & Scholarships","question":"What is the first-year fee range for B.Tech at KARE?","answer":"The first-year fee for B.Tech ranges from INR 1,22,000 to INR 2,07,000 depending on the branch, with the total program fees ranging from INR 4.58 Lakhs to INR 7.98 Lakhs.","source_reference":"Image 3 - Course Fee Table & Image 13"},
-  {"id":69,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Sc at KARE?","answer":"The first-year fee for B.Sc is INR 35,000 to INR 1,46,000, with total program fees ranging from INR 1.05 Lakhs to INR 3.58 Lakhs.","source_reference":"Image 3 - Course Fee Table & Image 14"},
-  {"id":70,"category":"Fees & Scholarships","question":"What is the first-year fee for MBA at KARE?","answer":"The first-year fee for MBA is INR 90,600 to INR 1,22,000, with total program fees of INR 3.34 Lakhs for the 2-year course.","source_reference":"Image 3 - Course Fee Table & Image 14"},
-  {"id":71,"category":"Fees & Scholarships","question":"What is the first-year fee for MCA at KARE?","answer":"The first-year fee for MCA is INR 1,22,000, with total program fees of INR 3.34 Lakhs for the 2-year program.","source_reference":"Image 3 - Course Fee Table & Image 15"},
-  {"id":72,"category":"Fees & Scholarships","question":"What is the first-year fee for Ph.D at KARE?","answer":"The first-year fee for Ph.D is INR 70,000, with total program fees of INR 2.1 Lakhs for the 3-year program.","source_reference":"Image 3 - Course Fee Table & Image 13"},
-  {"id":73,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Arch at KARE?","answer":"The first-year fee for B.Arch is INR 1,22,000, requiring 10+2 with 50% and NATA score.","source_reference":"Image 3 - Course Fee Table"},
-  {"id":74,"category":"Fees & Scholarships","question":"What is the first-year fee for M.Sc at KARE?","answer":"The first-year fee for M.Sc is INR 45,000 to INR 55,000, requiring graduation with 60%.","source_reference":"Image 3 - Course Fee Table"},
-  {"id":75,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Com at KARE?","answer":"The first-year fee for B.Com is INR 50,000, with total program fees ranging from INR 1.5 Lakhs to INR 1.95 Lakhs for the 3-year program.","source_reference":"Image 3 - Course Fee Table & Image 17"},
-  {"id":76,"category":"Fees & Scholarships","question":"What are the total fees for the M.Tech program at KARE?","answer":"Total fees for M.Tech at KARE are INR 1.74 Lakhs for the 2-year program, requiring graduation with 50% and GATE.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":77,"category":"Fees & Scholarships","question":"What are the total fees for the B.Tech Lateral program at KARE?","answer":"Total fees for B.Tech Lateral at KARE range from INR 3.46 Lakhs to INR 6.01 Lakhs for the 3-year program.","source_reference":"Image 17 - B.Tech Lateral Course Listing"},
-  {"id":78,"category":"Fees & Scholarships","question":"What is the total fee for the BA.LLB program?","answer":"The total fees for the BA.LLB program at KARE are INR 8.2 Lakhs for the 5-year program, with 10+2 with 50% as eligibility.","source_reference":"Image 16 - BA.LLB Course Listing"},
-  {"id":79,"category":"Fees & Scholarships","question":"What are the total fees for the LLB program?","answer":"Total fees for LLB (Hons.) at KARE are INR 6 Lakhs for the 3-year program.","source_reference":"Image 17 - LLB Course Listing"},
-  {"id":80,"category":"Fees & Scholarships","question":"What are the total fees for the BBA program at KARE?","answer":"Total fees for BBA at KARE are INR 1.05 Lakhs for the 3-year program, with 10+2 as eligibility.","source_reference":"Image 16 - BBA Course Listing"},
-  {"id":81,"category":"Fees & Scholarships","question":"What is the B.Sc (Nursing) total fee at KARE?","answer":"The total fees for the B.Sc (Nursing) program at KARE are INR 5.48 Lakhs for the 4-year program, with 10+2 as eligibility.","source_reference":"Image 15 - B.Sc Nursing Course Listing"},
-  {"id":82,"category":"Fees & Scholarships","question":"What is the tuition fee for B.Tech CSE at KARE?","answer":"The annual tuition fee for B.Tech CSE is approximately INR 1,85,000 per year as mentioned by students.","source_reference":"Reviews.docx - Chandra sidhardha & Pasupuleti Reviews"},
-  {"id":83,"category":"Fees & Scholarships","question":"What is the tuition fee for B.Tech Mechanical Engineering at KARE?","answer":"The tuition fee for B.Tech Mechanical Engineering is approximately INR 1,00,000 per year.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":84,"category":"Fees & Scholarships","question":"Does KARE offer merit-based scholarships?","answer":"Yes, KARE offers merit-based scholarships based on the student's 12th standard or intermediate percentage marks, entirely merit-based and not based on caste.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":85,"category":"Fees & Scholarships","question":"What scholarship do students with 95% or above in intermediate receive?","answer":"Students who score 95% or above in their intermediate exams receive a 50% scholarship on tuition fees.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":86,"category":"Fees & Scholarships","question":"What scholarship is given for students scoring 90% in intermediate?","answer":"Students who score 90% in their intermediate exams receive a 40% scholarship on tuition fees.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":87,"category":"Fees & Scholarships","question":"What scholarship percentage is provided for 85% to 89% in intermediate?","answer":"Students scoring between 85% and 89% in intermediate receive a 30% scholarship on tuition fees.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":88,"category":"Fees & Scholarships","question":"How is scholarship eligibility determined for B.Tech Mechanical at KARE?","answer":"For B.Tech Mechanical, scholarship is based on 12th PCM marks: scoring 80% PCM gives 50% scholarship and 70% PCM gives 35% scholarship, and it varies by department.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":89,"category":"Fees & Scholarships","question":"What is the application fee at KARE?","answer":"The application fee at KARE is INR 700.","source_reference":"Reviews.docx - Thanikonda venkata karthik Review"},
-  {"id":90,"category":"Fees & Scholarships","question":"What is the one-time admission fee at KARE?","answer":"The one-time admission fee at KARE is INR 10,000.","source_reference":"Reviews.docx - Gajendran R & Thanikonda venkata karthik Reviews"},
-  {"id":91,"category":"Fees & Scholarships","question":"What is the miscellaneous fee at KARE?","answer":"The miscellaneous fee at KARE is INR 10,000 to INR 12,000 per year, which typically covers lab coat, sports dress, notebooks, and lab records.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":92,"category":"Fees & Scholarships","question":"Can students pay tuition fees in installments?","answer":"Yes, the tuition fee can be paid in two terms spread across two semesters per year.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":93,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Tech Computer Science at KARE?","answer":"The first-year fee for B.Tech Computer Science is INR 1.85 Lakh as per available data.","source_reference":"Image 1 - General Overview"},
-  {"id":94,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Tech Biotechnology at KARE?","answer":"The first-year fee for B.Tech Biotechnology is INR 1 Lakh.","source_reference":"Image 1 - General Overview"},
-  {"id":95,"category":"Fees & Scholarships","question":"What is the first-year fee for B.Tech ECE at KARE?","answer":"The first-year fee for B.Tech ECE is INR 1.5 Lakh.","source_reference":"Image 1 - General Overview"},
-  {"id":96,"category":"Fees & Scholarships","question":"Are fees required to be paid before exams at KARE?","answer":"Yes, students must pay their semester fees before exams; failing to do so will prevent them from sitting in the examination.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":97,"category":"Fees & Scholarships","question":"What does the B.Com student pay per year at KARE?","answer":"A B.Com student at KARE pays approximately INR 55,000 as tuition fees per year, as mentioned by a student reviewer.","source_reference":"Reviews.docx - Yuva Review"},
-  {"id":98,"category":"Fees & Scholarships","question":"What is the total first-year expense for a B.Sc (additional row)?","answer":"As per the additional fee table row, one B.Sc first-year fee is INR 1,37,000.","source_reference":"Image 3 - Course Fee Table"},
-  {"id":99,"category":"Fees & Scholarships","question":"Does KARE's scholarship change based on department?","answer":"Yes, the scholarship percentage at KARE is changeable based on department and the percentage thresholds may differ per branch.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":100,"category":"Fees & Scholarships","question":"What is the total B.Tech fee for all 4 years at KARE?","answer":"The total B.Tech fee for all 4 years at KARE ranges from INR 4.58 Lakhs to INR 7.98 Lakhs depending on the branch.","source_reference":"Image 13 - B.Tech Course Listing"},
-  {"id":101,"category":"Hostel & Facilities","question":"How many hostels are there at Kalasalingam University?","answer":"The university has a total of 9 hostels overall, with 3 hostels for ladies and 6 for gents.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":102,"category":"Hostel & Facilities","question":"What types of hostel rooms are available at KARE?","answer":"KARE offers 2-sharing, 4-sharing, and 5-sharing rooms, with options for AC/non-AC and attached/non-attached washrooms.","source_reference":"Reviews.docx - Pasupuleti Amareswara & Chandra sidhardha Reviews"},
-  {"id":103,"category":"Hostel & Facilities","question":"What is the fee for a 4-sharing non-AC non-attached washroom hostel room?","answer":"The fee for a 4-sharing non-AC non-attached washroom hostel room is INR 87,000 per year.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":104,"category":"Hostel & Facilities","question":"What is the fee for a 4-sharing AC attached washroom hostel room?","answer":"The fee for a 4-sharing AC attached washroom hostel room is INR 1,30,000 per year.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":105,"category":"Hostel & Facilities","question":"What is the fee for a 5-sharing non-AC attached washroom hostel room?","answer":"The fee for a 5-sharing non-AC attached washroom hostel room is INR 95,000 per year.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":106,"category":"Hostel & Facilities","question":"What is the fee for a 2-sharing hostel room at KARE?","answer":"The fee for a 2-sharing hostel room is INR 85,000 per year.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":107,"category":"Hostel & Facilities","question":"What basic furniture is provided in hostel rooms at KARE?","answer":"Each hostel room is furnished with a bed, chair, table, and cupboard (locker) for every student, along with a dressing table.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":108,"category":"Hostel & Facilities","question":"Is Wi-Fi available in KARE hostels?","answer":"Yes, Wi-Fi internet access is available in the hostels at KARE.","source_reference":"Reviews.docx - Thanikonda venkata karthik & Aaditya Raj Reviews"},
-  {"id":109,"category":"Hostel & Facilities","question":"What is the hostel gate closing time for boys?","answer":"The hostel gate closes at 8:00 PM for boys as mentioned consistently in student reviews.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":110,"category":"Hostel & Facilities","question":"What is the hostel gate closing time for girls?","answer":"The hostel gate closes at 6:00 PM to 7:00 PM for girls, as mentioned across different student reviews.","source_reference":"Reviews.docx - Guru Vinitha & Chandra sidhardha Reviews"},
-  {"id":111,"category":"Hostel & Facilities","question":"How does hostel registration work at KARE?","answer":"Hostel registration is done by logging into the college hostel website, choosing the preferred room type, and paying the fee. Registration typically starts one month before the campus opens.","source_reference":"Reviews.docx - Chandra sidhardha & Manisai Polisetty Reviews"},
-  {"id":112,"category":"Hostel & Facilities","question":"Does the hostel fee include food and other amenities?","answer":"Yes, the hostel fee is inclusive of food, laundry, and other basic amenities.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":113,"category":"Hostel & Facilities","question":"Is there a separate mess for North Indian or Telugu students?","answer":"Yes, there is a Telugu mess and separate options to satisfy both North and South Indian students' food preferences.","source_reference":"Reviews.docx - Chandra sidhardha & Guru Vinitha Reviews"},
-  {"id":114,"category":"Hostel & Facilities","question":"How do students rate hostel food quality at KARE?","answer":"Students give mixed reviews — some say the food is average with a repeating menu, while others find basic meals like rice, dal, sabji, and chapati adequate; the food quality is not consistently rated high.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":115,"category":"Hostel & Facilities","question":"Are outside food items allowed in the hostel?","answer":"No, outside foods are not allowed inside the hostel as per hostel rules.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":116,"category":"Hostel & Facilities","question":"Is there a gym at KARE?","answer":"Yes, there is a separate gym facility for both boy and girl students on campus, and it is free for all students.","source_reference":"Reviews.docx - Manisai Polisetty & Guru Vinitha Reviews"},
-  {"id":117,"category":"Hostel & Facilities","question":"What sports facilities are available at KARE?","answer":"The campus has a physical stadium, cricket ground, football ground, tennis court, and badminton courts for both girls and boys.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":118,"category":"Hostel & Facilities","question":"Does KARE have a library?","answer":"Yes, KARE has a large library with a wide range of books and journals, described as one of the finest facilities on campus.","source_reference":"Reviews.docx - Aaditya Raj & Gajendran R Reviews"},
-  {"id":119,"category":"Hostel & Facilities","question":"Are classrooms equipped with projectors and smart boards?","answer":"Yes, classrooms at KARE have projectors, Wi-Fi, and smart boards in certain blocks, making learning more interactive.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":120,"category":"Hostel & Facilities","question":"Does the hostel conduct monthly events or activities?","answer":"Yes, the hostel provides monthly events, games, and a food fest every month for residents.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":121,"category":"Hostel & Facilities","question":"Is healthcare free for students at KARE?","answer":"Yes, KARE provides free healthcare for every student, with a hospital inside the campus and a 24/7 ambulance facility.","source_reference":"Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"},
-  {"id":122,"category":"Hostel & Facilities","question":"How are KARE's labs described by students?","answer":"Labs are described as good and well-equipped, with stream-specific labs for CSE, ECE, EEE, and other departments, though some computers occasionally have technical issues.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":123,"category":"Hostel & Facilities","question":"Does KARE have separate portals for academic and hostel purposes?","answer":"Yes, KARE has separate portals for both academic and hostel purposes.","source_reference":"Reviews.docx - Manisai Polisetty Review"},
-  {"id":124,"category":"Hostel & Facilities","question":"Does the hostel fee increase every year?","answer":"Yes, hostel fees may increase by approximately INR 5,000 every year based on increases in food and operational expenses.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":125,"category":"Hostel & Facilities","question":"What is the hostel fee range at KARE?","answer":"Hostel fees at KARE start from approximately INR 65,000 for non-attached non-AC rooms and go up to INR 1,40,000 for AC attached rooms, with various options in between.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":126,"category":"Hostel & Facilities","question":"Are cafeterias and canteens available on the KARE campus?","answer":"Yes, there are cafes, canteens, and stalls available all around the campus for students.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":127,"category":"Hostel & Facilities","question":"Does KARE have NCC and NSS facilities?","answer":"Yes, KARE has NCC and NSS facilities, with hostel gates opening at 4:00 AM for NCC and NSS members for morning sports and activities.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":128,"category":"Hostel & Facilities","question":"What is the security situation around the KARE campus?","answer":"The locality is described as safe, with the campus area being secure, and there are shops, cafes, and small eateries near the campus gate.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":129,"category":"Placements","question":"What is the highest placement package at KARE?","answer":"The highest placement package at Kalasalingam University is INR 50 LPA, with student reviews mentioning up to INR 54 LPA.","source_reference":"Image 4 - Placement 2026 & Image 11 - Students' Opinion"},
-  {"id":130,"category":"Placements","question":"What is the average placement package at KARE?","answer":"The average placement package at Kalasalingam University is approximately INR 4.5 to INR 5.7 LPA.","source_reference":"Image 4 & Image 9 - Placement Data"},
-  {"id":131,"category":"Placements","question":"What is the overall placement rate at KARE?","answer":"The official placement rate is 50%+, while student reviews indicate approximately 70–95% of students get placed each year.","source_reference":"Image 4 - Placement Statistics & Image 11 - Students' Opinion"},
-  {"id":132,"category":"Placements","question":"How many placement offers were made in recent years at KARE?","answer":"The university has made over 1,650 placement offers in recent years.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":133,"category":"Placements","question":"Does KARE have a dedicated placement cell?","answer":"Yes, KARE has a dedicated Placement and Training Cell that coordinates with companies and prepares students through career guidance and workshops.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":134,"category":"Placements","question":"What training does the Placement and Training Cell provide?","answer":"The Placement and Training Cell provides aptitude training, technical skill enhancement, soft skills and communication sessions, resume-building workshops, and mock interviews and group discussions.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":135,"category":"Placements","question":"When do placement activities begin for UG students?","answer":"For UG students like B.Tech, placement training and company visits typically begin in the 7th semester.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":136,"category":"Placements","question":"When do placement activities start for PG students?","answer":"For PG students like MBA and M.Tech, placement activities start from the 3rd semester.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":137,"category":"Placements","question":"Are internships part of the placement process at KARE?","answer":"Yes, many companies offer internships with Pre-Placement Offers (PPOs) based on performance, especially in engineering and management programs.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":138,"category":"Placements","question":"What is the median package for B.Tech students in 2024?","answer":"The median package for BE/B.Tech students in 2024 was INR 6.10 Lakhs.","source_reference":"Image 10 & Image 18 - Coursewise Placement Highlights"},
-  {"id":139,"category":"Placements","question":"What was the B.Tech median package in 2023?","answer":"The median package for BE/B.Tech students in 2023 was INR 6.75 Lakhs.","source_reference":"Image 10 & Image 18 - Coursewise Placement Highlights"},
-  {"id":140,"category":"Placements","question":"What was the B.Tech median package in 2022?","answer":"The median package for BE/B.Tech students in 2022 was INR 5.50 Lakhs.","source_reference":"Image 10 & Image 18 - Coursewise Placement Highlights"},
-  {"id":141,"category":"Placements","question":"What is the M.Tech median salary per NIRF Ranking 2026?","answer":"The M.Tech program recorded a median salary of INR 6,60,000 (INR 6.6 Lakhs) as per NIRF Ranking 2026.","source_reference":"Image 16 - M.Tech Course Listing (NIRF 2026)"},
-  {"id":142,"category":"Placements","question":"How many B.Tech students were admitted and placed in 2024?","answer":"In 2024, 1,476 B.Tech students were admitted and 1,359 were placed.","source_reference":"Image 10 & Image 18 - Yearly Students Placed"},
-  {"id":143,"category":"Placements","question":"How many B.Tech students were placed in 2023?","answer":"In 2023, out of 1,255 students admitted, 1,219 were placed.","source_reference":"Image 10 & Image 18 - Yearly Students Placed"},
-  {"id":144,"category":"Placements","question":"How many B.Tech students were placed in 2022?","answer":"In 2022, out of 1,257 students admitted, 1,147 were placed.","source_reference":"Image 18 - Yearly Students Placed"},
-  {"id":145,"category":"Placements","question":"What is the UG 4th year NIRF placement data for 2023-24?","answer":"In 2023-24, 1,593 UG 4th year students graduated and 1,422 were placed with a median salary of INR 5,75,000.","source_reference":"Image 6 - UG 4th Year NIRF Placement Report 2025"},
-  {"id":146,"category":"Placements","question":"What was the highest median salary recorded for UG 4th year students?","answer":"The highest median salary for UG 4th year students was INR 6,75,000, recorded in the academic year 2022-23.","source_reference":"Image 6 - UG 4th Year NIRF Placement Report 2025"},
-  {"id":147,"category":"Placements","question":"What is the UG 3rd year NIRF placement data for 2023-24?","answer":"In 2023-24, 468 UG 3rd year students graduated and 329 were placed with a median salary of INR 4,00,000.","source_reference":"Image 5 - UG 3rd Year NIRF Placement Report 2025"},
-  {"id":148,"category":"Placements","question":"What is the UG 5th year NIRF placement data for 2023-24?","answer":"In 2023-24, 34 UG 5th year students graduated and 20 were placed with a median salary of INR 4,15,000.","source_reference":"Image 7 - UG 5th Year NIRF Placement Report 2025"},
-  {"id":149,"category":"Placements","question":"What is the PG 2nd year NIRF placement data for 2023-24?","answer":"In 2023-24, 271 PG 2nd year students graduated and 229 were placed with a median salary of INR 5,75,000.","source_reference":"Image 8 - PG 2nd Year NIRF Placement Report 2025"},
-  {"id":150,"category":"Placements","question":"What was the peak median salary for PG students in NIRF data?","answer":"The peak median salary for PG 2nd year students was INR 5,90,000, recorded in the academic year 2022-23.","source_reference":"Image 8 - PG 2nd Year NIRF Placement Report 2025"},
-  {"id":151,"category":"Placements","question":"What does the B.Tech NIRF 2026 data show for placement percentage?","answer":"The B.Tech program has a 93% placement percentage as per NIRF Ranking 2026 insights.","source_reference":"Image 13 - B.Tech Course Listing (NIRF 2026)"},
-  {"id":152,"category":"Placements","question":"What is the passing percentage for B.Tech at KARE per NIRF 2026?","answer":"The B.Tech program has a 101% passing percentage as per NIRF Ranking 2026 insights.","source_reference":"Image 13 - B.Tech Course Listing (NIRF 2026)"},
-  {"id":153,"category":"Placements","question":"What is the M.Tech placement percentage per NIRF 2026?","answer":"The M.Tech program has a 96% placement percentage and 100% passing percentage as per NIRF Ranking 2026.","source_reference":"Image 16 - M.Tech Course Listing (NIRF 2026)"},
-  {"id":154,"category":"Placements","question":"What is the B.Tech median salary as per NIRF 2026?","answer":"The B.Tech median salary is INR 6,10,000 (INR 6.1 Lakhs) as per NIRF Ranking 2026.","source_reference":"Image 13 - B.Tech Course Listing (NIRF 2026)"},
-  {"id":155,"category":"Placements","question":"Do CSE and ECE students get higher placement rates at KARE?","answer":"Yes, students from the CSE and ECE departments have higher placement rates compared to other departments at KARE.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":156,"category":"Placements","question":"How many companies visit the KARE campus annually?","answer":"More than 500 companies visit the KARE campus annually, and approximately 300+ companies are tied up with the university.","source_reference":"Image 11 - Students' Opinion & Reviews.docx - Pasupuleti Review"},
-  {"id":157,"category":"Placements","question":"Does KARE provide one-to-one sessions for placement preparation?","answer":"Yes, KARE offers students one-to-one sessions, seminars, and mock interview support to achieve high placement rates.","source_reference":"Image 4 - Placement 2026"},
-  {"id":158,"category":"Placements","question":"Do pre-final year students get internship opportunities at KARE?","answer":"Yes, pre-final year students get internship and live project opportunities that sometimes convert into full-time roles.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":159,"category":"Placements","question":"What is the CGPA criterion for placement at KARE?","answer":"Students are categorized into two groups for placements: those with CGPA above 8 and those below 8, each having separate interviews.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":160,"category":"Placements","question":"From which semester can B.Tech students attend placement drives at KARE?","answer":"Students can start attending placement drives from the 6th or 7th semester onwards.","source_reference":"Reviews.docx - Gajendran R & Chandra sidhardha Reviews"},
-  {"id":161,"category":"Placements","question":"What median package did UG 4th year students get in 2021-22?","answer":"UG 4th year students in 2021-22 had a median salary of INR 5,50,000, with 1,220 students graduating and 1,147 placed.","source_reference":"Image 6 - UG 4th Year NIRF Placement Report 2025"},
-  {"id":162,"category":"Placements","question":"What is the ME/M.Tech median package in 2024?","answer":"The ME/M.Tech programme recorded a median package of INR 6.6 Lakhs in 2024.","source_reference":"Image 10 - Coursewise Placement Highlights"},
-  {"id":163,"category":"Placements","question":"What is KARE's average placement package per the overall highlights?","answer":"The average package at KARE is INR 4.50 Lakhs as shown in the overall placement highlights.","source_reference":"Image 10 - Overall Placement Highlights"},
-  {"id":164,"category":"Recruiters","question":"Who are the top recruiters at Kalasalingam University?","answer":"Top recruiters include Amazon, Accenture, LG, Cognizant, Dell, HCL, ICICI Bank, Infosys, IBM, Ernst and Young, TCS, Wipro, and many more.","source_reference":"Image 4 - Placement Statistics & Image 12 - Frequently Visited Companies"},
-  {"id":165,"category":"Recruiters","question":"Which IT companies frequently visit the KARE campus for placements?","answer":"Major IT companies that visit include Amazon, Cognizant, IBM, HCL Technologies, TCS, Wipro, Infosys, Hexaware, Tech Mahindra, Zoho, and Syntel.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":166,"category":"Recruiters","question":"Does the Indian Navy recruit from Kalasalingam University?","answer":"Yes, the Indian Navy is listed as one of the frequently visiting organizations for placement at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":167,"category":"Recruiters","question":"Does Zoho recruit from KARE?","answer":"Yes, Zoho is listed as a frequently visiting company for placements and internships at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":168,"category":"Recruiters","question":"Does TCS recruit from KARE?","answer":"Yes, Tata Consultancy Services (TCS) is one of the major recruiters that visits the KARE campus for placements, mass hiring, and internships.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":169,"category":"Recruiters","question":"Do automotive companies recruit from KARE?","answer":"Yes, automotive companies like TVS Motors and Ucal Fuel Systems are among the frequently visiting companies at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":170,"category":"Recruiters","question":"What roles are typically offered to KARE students during campus placements?","answer":"Roles typically offered include software developer, data analyst, testing engineer, security engineer, and core engineering roles such as design or production trainee.","source_reference":"Reviews.docx - Gajendran R & Pasupuleti Reviews"},
-  {"id":171,"category":"Recruiters","question":"What is the typical internship stipend offered to KARE students?","answer":"The internship stipend typically varies between INR 8,000 to INR 20,000 per month depending on the company.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":172,"category":"Recruiters","question":"Does KARE have core company recruiters for non-IT placements?","answer":"Yes, core companies visit KARE for non-IT placements, though students note that the number of core companies is fewer compared to IT companies.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":173,"category":"Recruiters","question":"Does Capgemini recruit from KARE?","answer":"Yes, Capgemini is one of the major companies that recruits from KARE and conducts mass hiring on campus.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":174,"category":"Recruiters","question":"Does Danfoss recruit from KARE?","answer":"Yes, Danfoss is listed as one of the frequently visiting companies at KARE for placements.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":175,"category":"Recruiters","question":"Which banking and financial companies visit KARE for placements?","answer":"Banking and financial companies that visit KARE include ICICI Bank, Axis Bank, and FSS (Financial Software and Systems).","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":176,"category":"Recruiters","question":"What programming languages are important for KARE placement interviews?","answer":"Students are advised to learn C, C++, Python, and Java for placement interview preparation, with special classes conducted by the university.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":177,"category":"Recruiters","question":"Does Byju's recruit from KARE?","answer":"Yes, Byju's is listed as one of the frequently visiting companies for placements at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":178,"category":"Recruiters","question":"Which telecom companies recruit from KARE?","answer":"Telecom companies that recruit from KARE include Airtel and Gemini Communication Ltd.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":179,"category":"Recruiters","question":"Are there EdTech companies that recruit from KARE?","answer":"Yes, EdTech companies such as Byju's, Extra Marks, and Eduvirtuoso recruit from KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":180,"category":"Recruiters","question":"Do manufacturing companies visit KARE for placements?","answer":"Yes, manufacturing companies like TEXMO Industries, Loyal Textile Mills, Rane Group, and Ceasefire Industries visit KARE for placements.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":181,"category":"Campus Life","question":"What is the name of the annual cultural fest at KARE?","answer":"The annual cultural fest at KARE is called Sparkz, conducted typically in February or March.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":182,"category":"Campus Life","question":"What events take place at the KARE annual fest?","answer":"The annual fest includes hackathons, research events, sports, dancing, singing, technical and cultural competitions, and celebrity visits.","source_reference":"Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"},
-  {"id":183,"category":"Campus Life","question":"What are the names of technical fests at KARE?","answer":"Technical events such as Euphoria, Mirth, and Vintra are conducted every academic year at KARE.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":184,"category":"Campus Life","question":"What clubs are available at Kalasalingam University?","answer":"Clubs available include Visakha (dance club), Pyros Club, Sparks Club, Photographic Club, Coding Club, Cultural Club, and Social Service Group, among others.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":185,"category":"Campus Life","question":"Does KARE have an IEDC cell for entrepreneurship?","answer":"Yes, KARE has an IEDC (Innovation and Entrepreneurship Development Cell) that supports start-up initiatives among students.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":186,"category":"Campus Life","question":"Does KARE support students for inter-college competitions?","answer":"Yes, the management actively sends students to symposiums and competitions within and outside the state to gain exposure and experience.","source_reference":"Reviews.docx - Yuva Review"},
-  {"id":187,"category":"Campus Life","question":"Does KARE offer a semester exchange program with foreign universities?","answer":"Yes, KARE provides a semester exchange program to other universities in other countries.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":188,"category":"Campus Life","question":"Are hackathons conducted regularly at KARE?","answer":"Yes, KARE conducts hackathons every month, and the top 5 teams receive internship opportunities.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":189,"category":"Campus Life","question":"Do students from different states study at KARE?","answer":"Yes, students from all over India — including Tamil Nadu, Andhra Pradesh, Kerala, and northern states — study at KARE, creating a diverse environment.","source_reference":"Reviews.docx - Gajendran R & Aaditya Raj Reviews"},
-  {"id":190,"category":"Campus Life","question":"How many projects do students complete per semester at KARE?","answer":"Each student completes 2 projects per semester (4 in an academic year) with guidance from faculty and research scholars.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":191,"category":"Campus Life","question":"What is the atmosphere of KARE campus at night?","answer":"After 8:00 PM, students remain inside the hostel; favorite spots include the hostel common hall, terrace for conversations, and the canteen lawn during allowed hours.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":192,"category":"Campus Life","question":"What is KARE's stance on student sports participation?","answer":"KARE supports students in all sports and games, provides sports facilities, and conducts university games meets where well-performing students are sent to inter-university competitions.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":193,"category":"Faculty","question":"What is the faculty-to-student ratio at KARE?","answer":"The faculty-to-student ratio is approximately 1:20 to 1:25, with around 250 total faculty members including professors and assistant professors.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":194,"category":"Faculty","question":"What percentage of KARE faculty hold doctoral degrees?","answer":"Approximately 90% of the faculty at KARE hold doctoral degrees.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":195,"category":"Faculty","question":"How are KARE faculty described by students?","answer":"Faculty members are generally described as qualified, talented, experienced, and supportive, guiding students in both academics and career matters.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":196,"category":"Faculty","question":"What teaching methodologies does KARE faculty use?","answer":"Faculty use a mix of traditional lectures, interactive sessions, project-based learning, and online resources including subscription-based platforms included in college fees.","source_reference":"Reviews.docx - Thanikonda venkata karthik & Chandra sidhardha Reviews"},
-  {"id":197,"category":"Faculty","question":"Does KARE have dedicated sports faculty?","answer":"Yes, KARE has sports faculty who train students in various sports and games and conduct university games meets.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":198,"category":"Rules & Regulations","question":"Are there strict rules at KARE?","answer":"Yes, KARE is known for strict rules and regulations, with fines imposed for violations; some students compare the level of discipline to intermediate-level restrictions.","source_reference":"Reviews.docx - Chandra sidhardha & Thanikonda venkata karthik Reviews"},
-  {"id":199,"category":"Rules & Regulations","question":"Are students fined for rule violations at KARE?","answer":"Yes, fines are imposed for rule violations at KARE, and the fine amounts can be significant.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":200,"category":"Rules & Regulations","question":"What are the hostel entry timings at KARE?","answer":"Boys must return to the hostel by 8:00 PM–9:30 PM (varies by hostel), and girls must return by 6:00–7:00 PM.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":201,"category":"Rules & Regulations","question":"Is there security in the girls' hostel area at KARE?","answer":"Yes, KARE maintains strict security for girls' hostels, making it safe for parents to send their daughters.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":202,"category":"Rules & Regulations","question":"Can students roam outside the campus at night?","answer":"No, after 10:00 PM no students are allowed to roam on roads outside the campus.","source_reference":"Reviews.docx - Manisai Polisetty Review"},
-  {"id":203,"category":"Rules & Regulations","question":"Can external visitors enter student hostels?","answer":"No, outsiders and non-hostel students are not allowed inside the hostel premises as per hostel rules.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":204,"category":"Rules & Regulations","question":"What happens if a student does not pay fees before exams?","answer":"Students who have not paid their semester fees will not be allowed to sit in the examinations.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":205,"category":"Student Reviews","question":"What do students most like about KARE?","answer":"Students appreciate the good placement record, research facilities, experienced faculty, beautiful green campus, proximity to tourist destinations, and free healthcare.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":206,"category":"Student Reviews","question":"What are common complaints students have about KARE?","answer":"Common complaints include average hostel food quality, strict rules, poor internet or mobile signal, limited core company placements, and occasional infrastructure issues.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":207,"category":"Student Reviews","question":"How do students rate KARE's course curriculum?","answer":"Students generally rate the course curriculum between 3 to 5 out of 5, with most finding it relevant, though some suggest more industry-aligned and real-world examples.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":208,"category":"Student Reviews","question":"What do students say about placement at KARE?","answer":"Students generally rate placements 3 to 5 out of 5, mentioning companies like TCS, Infosys, Wipro, and Capgemini, with a 65–75% placement rate, though core placements need improvement.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":209,"category":"Student Reviews","question":"How do students rate hostel facilities at KARE?","answer":"Students rate hostel facilities between 2 to 5 out of 5, often praising the room setup and amenities while criticizing food quality.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":210,"category":"Student Reviews","question":"How do students describe overall campus life at KARE?","answer":"Students rate campus life between 4 to 5 out of 5, describing it as a good mix of academics, fests, clubs, sports, and exposure to peers from across India.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":211,"category":"Student Reviews","question":"What do students say about internet connectivity at KARE?","answer":"Students frequently report poor mobile signal and slow internet connection as significant concerns on campus.","source_reference":"Reviews.docx - Pasupuleti Amareswara & Aaditya Raj Reviews"},
-  {"id":212,"category":"Student Reviews","question":"What do students say about security for female students at KARE?","answer":"Students consistently mention that KARE provides high security for female students, with strict management and surveillance in the girls' hostel areas.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":213,"category":"Student Reviews","question":"Do students receive internship opportunities at KARE?","answer":"Yes, students mention companies like TCS, Infosys, Wipro, Zoho, IBM, and Capgemini providing internships, with stipends ranging from INR 8,000 to INR 20,000 per month.","source_reference":"Reviews.docx - Gajendran R & Pasupuleti Reviews"},
-  {"id":214,"category":"Student Reviews","question":"What do students say about language barriers at KARE?","answer":"Students from outside Tamil Nadu or Andhra Pradesh may initially face language barriers, but most students adapt and learn from the diverse peer group over time.","source_reference":"Reviews.docx - Gajendran R & Aaditya Raj Reviews"},
-  {"id":215,"category":"Student Reviews","question":"How do students describe infrastructure at KARE?","answer":"Most students describe infrastructure as good to excellent, with well-equipped labs and a beautiful campus, though some mention issues with lifts and water supply in certain blocks.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":216,"category":"Student Reviews","question":"What do B.Tech students say about the course curriculum at KARE?","answer":"B.Tech students generally find the curriculum well-structured and relevant, with both theory and practical exposure, though some suggest adding more real-world applications and interactive teaching methods.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":217,"category":"General Information","question":"What is the B.Tech student intake at KARE per NIRF 2026?","answer":"The B.Tech student intake at KARE is 6,573 (Male: 3,135, Female: 3,438) as per NIRF Ranking 2026.","source_reference":"Image 13 - B.Tech Course Listing (NIRF 2026)"},
-  {"id":218,"category":"General Information","question":"What is the M.Tech student intake at KARE per NIRF 2026?","answer":"The M.Tech student intake at KARE is 219 (Male: 85, Female: 134) as per NIRF Ranking 2026.","source_reference":"Image 16 - M.Tech Course Listing (NIRF 2026)"},
-  {"id":219,"category":"Placements","question":"What is the UG 3rd year median salary in 2021-22?","answer":"UG 3rd year students in 2021-22 had a median salary of INR 4,25,000, with 530 students graduating and 444 placed.","source_reference":"Image 5 - UG 3rd Year NIRF Placement Report 2025"},
-  {"id":220,"category":"Placements","question":"What is the UG 3rd year median salary in 2022-23?","answer":"UG 3rd year students in 2022-23 had a median salary of INR 4,15,000, with 475 students graduating and 389 placed.","source_reference":"Image 5 - UG 3rd Year NIRF Placement Report 2025"},
-  {"id":221,"category":"Placements","question":"What is the PG 2nd year placement data for 2021-22?","answer":"In 2021-22, 319 PG 2nd year students graduated and 305 were placed with a median salary of INR 5,75,000.","source_reference":"Image 8 - PG 2nd Year NIRF Placement Report 2025"},
-  {"id":222,"category":"Placements","question":"What is the UG 5th year placement data for 2021-22?","answer":"In 2021-22, 39 UG 5th year students graduated and 29 were placed with a median salary of INR 4,30,000.","source_reference":"Image 7 - UG 5th Year NIRF Placement Report 2025"},
-  {"id":223,"category":"Placements","question":"Has the number of UG 3rd year placed students changed over years at KARE?","answer":"Yes, the number of placed UG 3rd year students has slightly declined from 444 in 2021-22 to 389 in 2022-23 and 329 in 2023-24, with median salary also decreasing to INR 4,00,000.","source_reference":"Image 5 - UG 3rd Year NIRF Placement Report 2025"},
-  {"id":224,"category":"Placements","question":"What has been the trend in UG 4th year placements over three years at KARE?","answer":"UG 4th year placements have shown strong performance, with the number of students placed increasing steadily, reaching 1,422 out of 1,593 in 2023-24, though median salary slightly dipped from the peak of INR 6.75 LPA in 2022-23.","source_reference":"Image 6 - UG 4th Year NIRF Placement Report 2025"},
-  {"id":225,"category":"Admissions","question":"Is direct admission possible at KARE without an entrance exam?","answer":"Students can join KARE by directly visiting the admissions block, submitting required documents, and filling in the form, as the university also accepts merit-based admissions for certain programs.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":226,"category":"Admissions","question":"What is the BBA eligibility at KARE?","answer":"BBA at KARE requires 10+2 completion as the eligibility criterion.","source_reference":"Image 16 - BBA Course Listing"},
-  {"id":227,"category":"Fees & Scholarships","question":"What is the scholarship percentage for students with 70% marks in intermediate?","answer":"Students with 70% marks in intermediate receive a 35% scholarship on tuition fees for eligible branches at KARE.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":228,"category":"Fees & Scholarships","question":"What is the approximate total cost for a B.Tech student per year including hostel at KARE?","answer":"A B.Tech student at KARE spends approximately INR 2 Lakhs per year, which includes tuition fee (around INR 1.85 Lakhs for CSE) plus hostel and mess fees starting around INR 80,000.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":229,"category":"Campus Life","question":"Does KARE have a coding club?","answer":"Yes, KARE has a coding club along with other clubs like cultural club and social service groups to help students build skills and networks.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":230,"category":"Campus Life","question":"Are there field trips organized at KARE?","answer":"Yes, KARE organizes field trips that are related to the respective courses, providing practical exposure outside the campus.","source_reference":"Reviews.docx - Yuva Review"},
-  {"id":231,"category":"Hostel & Facilities","question":"Are students allowed to leave the hostel for NCC or NSS activities in the morning?","answer":"Yes, hostel gates open at 4:00 AM for NCC and NSS members who need to go for early morning sports and activities.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":232,"category":"General Information","question":"Does KARE have a total of 1900 plus placement offers?","answer":"Yes, according to the university's official data, KARE has recorded a total of 1,900+ placement offers in recent years.","source_reference":"Image 1 - General Overview"},
-  {"id":233,"category":"Placements","question":"What do student reviews say about KARE's highest placement package?","answer":"Student reviews mention the highest salary package offered was INR 54 LPA, while official sources state INR 50 LPA.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":234,"category":"Placements","question":"Are BPOs and non-core companies also part of KARE placements?","answer":"Yes, non-core companies and BPOs frequently offer positions at KARE, though typically with lower salary packages compared to core IT companies.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":235,"category":"Faculty","question":"How do faculty support students in research activities at KARE?","answer":"Faculty are always helpful for students doing research; they guide students in projects, research publications, and encourage showcasing work at events conducted by various universities.","source_reference":"Reviews.docx - Aaditya Raj & Guru Vinitha Reviews"},
-  {"id":236,"category":"Rules & Regulations","question":"What is the sessional exam marking scheme at KARE?","answer":"Each sessional exam (Sessional 1 and Sessional 2) is for 50 marks, with each contributing 17.5% to the final marks, and the end-semester exam contributes 50%.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":237,"category":"Hostel & Facilities","question":"Is the hostel allotment first-come-first-served at KARE?","answer":"Yes, hostel allotment is done on a first-come-first-served basis, and students are advised to register early.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":238,"category":"General Information","question":"Is KARE accredited by NBA?","answer":"Yes, Kalasalingam University is accredited by the NBA (National Board of Accreditation).","source_reference":"Image 1 - General Overview"},
-  {"id":239,"category":"General Information","question":"Is KARE accredited by ABET?","answer":"Yes, Kalasalingam University is accredited by ABET, an international accreditation body for engineering and technology programs.","source_reference":"Image 1 - General Overview"},
-  {"id":240,"category":"Courses & Departments","question":"What is the duration of the M.Tech program at KARE?","answer":"The M.Tech program at KARE is a 2-year full-time program requiring graduation with 50% and GATE score.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":241,"category":"Courses & Departments","question":"What is the duration of the MBA program at KARE?","answer":"The MBA program at KARE is a 2-year full-time program requiring graduation with 60% and a valid CAT score.","source_reference":"Image 14 - MBA Course Listing"},
-  {"id":242,"category":"Courses & Departments","question":"What is the duration of the MCA program at KARE?","answer":"The MCA program at KARE is a 2-year full-time program requiring graduation with 60%.","source_reference":"Image 15 - MCA Course Listing"},
-  {"id":243,"category":"Courses & Departments","question":"What is the duration of the Ph.D program at KARE?","answer":"The Ph.D program at KARE is a 3-year full-time program requiring Post Graduation in a relevant field.","source_reference":"Image 13 - Ph.D Course Listing"},
-  {"id":244,"category":"Courses & Departments","question":"What is the duration of the B.Tech program at KARE?","answer":"The B.Tech program at KARE is a 4-year full-time program with 10+2 and 50% plus JEE Main as eligibility.","source_reference":"Image 13 - B.Tech Course Listing"},
-  {"id":245,"category":"Courses & Departments","question":"What is the duration of the B.Sc program at KARE?","answer":"The B.Sc program at KARE is a 3-year full-time program with 10+2 with 50% as eligibility.","source_reference":"Image 14 - B.Sc Course Listing"},
-  {"id":246,"category":"Courses & Departments","question":"Does KARE offer a B.Tech in Mechanical Engineering?","answer":"Yes, KARE offers B.Tech in Mechanical Engineering as one of its 19 B.Tech programs, with a tuition fee of approximately INR 1 Lakh per year.","source_reference":"Reviews.docx - Gajendran R Review & Image 13"},
-  {"id":247,"category":"Courses & Departments","question":"Does KARE offer Computer Science Engineering B.Tech with Cybersecurity?","answer":"Yes, KARE offers B.Tech in Cybersecurity as part of its Computer Science Engineering offerings.","source_reference":"Reviews.docx - Thanikonda venkata karthik Review"},
-  {"id":248,"category":"Courses & Departments","question":"What is the Collegedunia rating for KARE's B.Tech program?","answer":"KARE's B.Tech program has a rating of 3.7 stars based on 233 reviews on Collegedunia.","source_reference":"Image 13 - B.Tech Course Listing"},
-  {"id":249,"category":"Courses & Departments","question":"What is the Collegedunia rating for KARE's MBA program?","answer":"KARE's MBA program has a rating of 4.1 stars based on 5 reviews on Collegedunia.","source_reference":"Image 14 - MBA Course Listing"},
-  {"id":250,"category":"Courses & Departments","question":"What is the Collegedunia rating for KARE's B.Sc program?","answer":"KARE's B.Sc program has a rating of 3.3 stars based on 7 reviews on Collegedunia.","source_reference":"Image 14 - B.Sc Course Listing"},
-  {"id":251,"category":"Courses & Departments","question":"What is the Collegedunia rating for KARE's B.Com program?","answer":"KARE's B.Com program has a rating of 4.5 stars based on 4 reviews on Collegedunia.","source_reference":"Image 17 - B.Com Course Listing"},
-  {"id":252,"category":"Courses & Departments","question":"Does KARE offer B.Tech in Computer Science with AI and Machine Learning?","answer":"Yes, KARE offers B.Tech in Computer Science and Engineering with AI and Machine Learning specialization, as confirmed by student reviewers.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":253,"category":"Campus Life","question":"Does KARE conduct annual cultural events?","answer":"Yes, KARE conducts annual cultural events called Sparkz (Euphoria 2025 is a recent example) in March, featuring hackathons, research, sports, dance, and singing.","source_reference":"Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"},
-  {"id":254,"category":"Campus Life","question":"What are the facilities available during the day at KARE?","answer":"During the day, students can access the gym, library, sports grounds (cricket, football, tennis, badminton), cafeterias, coding lab, and attend club activities.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":255,"category":"Hostel & Facilities","question":"Do hostels have laundry services at KARE?","answer":"Yes, laundry services are included as part of the hostel facilities at KARE.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":256,"category":"Hostel & Facilities","question":"Are the hostel rooms furnished?","answer":"Yes, each hostel room has a bed, chair, table, cupboard with lock, and dressing table for every occupant.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":257,"category":"Hostel & Facilities","question":"What types of rooms are the most and least expensive in KARE hostels?","answer":"The most expensive hostel option is AC attached 4-bed rooms at around INR 1.4 Lakhs per annum, and the least expensive is a non-AC non-attached 5-bed room starting from approximately INR 65,000.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":258,"category":"Admissions","question":"What entrance exams are used for M.Tech admissions at KARE?","answer":"M.Tech admissions at KARE require a valid GATE score along with graduation with minimum 50% marks.","source_reference":"Image 16 - M.Tech Course Listing"},
-  {"id":259,"category":"Admissions","question":"What is the eligibility for B.Sc (Nursing) admission?","answer":"B.Sc (Nursing) requires 10+2 with Physics, Chemistry, Biology, and English subjects, and admission is merit-based with eligibility screening.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":260,"category":"Admissions","question":"What is the Collegedunia ranking for KARE's B.Tech lateral program?","answer":"KARE's B.Tech Lateral program is ranked #257 out of 500 by Collegedunia.","source_reference":"Image 17 - B.Tech Lateral Course Listing"},
-  {"id":261,"category":"General Information","question":"Does KARE offer both UG and PG programs?","answer":"Yes, KARE offers a comprehensive range of UG programs (B.Tech, B.Sc, B.Com, BBA, BArch, BA+LLB, BSc Nursing) and PG programs (MBA, MCA, M.Tech, M.Sc) along with Ph.D programs.","source_reference":"Images 13-17 - Course Listings"},
-  {"id":262,"category":"General Information","question":"How many total placement offers does KARE have on record?","answer":"KARE has recorded 1,900+ placement offers in recent years according to the university's official website data.","source_reference":"Image 1 - General Overview"},
-  {"id":263,"category":"Placements","question":"What is the average package range as mentioned by student reviews?","answer":"Student reviews mention an average package range of INR 4 to INR 8.5 LPA at KARE, with the typical average around INR 4.5 LPA.","source_reference":"Image 11 - Students' Opinion & Reviews.docx"},
-  {"id":264,"category":"Placements","question":"Are placement sessions conducted before the actual placement season?","answer":"Yes, the Placement and Training Cell conducts aptitude training, technical sessions, soft skills workshops, and mock interviews well before the placement season begins.","source_reference":"Image 9 - Placement FAQ"},
-  {"id":265,"category":"Recruiters","question":"Which companies are involved in mass hiring at KARE?","answer":"Companies like TCS and Capgemini are known for conducting mass hiring drives at KARE campus.","source_reference":"Reviews.docx - Aaditya Raj Review"},
-  {"id":266,"category":"Recruiters","question":"Does KARE have tie-ups with Healthwatch Telediagnostics?","answer":"Yes, Healthwatch Telediagnostics Pvt Ltd is listed among the frequently visiting companies at KARE for placements.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":267,"category":"Recruiters","question":"Does KARE have engineering and energy sector recruiters?","answer":"Yes, BGR Energy Systems Limited and Mitsuba Sical India Pvt Ltd are among engineering and energy sector companies that recruit from KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":268,"category":"Recruiters","question":"Is Wipro a recruiter at KARE?","answer":"Yes, Wipro is one of the frequently visiting companies for placements and internships at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":269,"category":"Recruiters","question":"Does Infosys recruit from KARE?","answer":"Yes, Infosys is listed as one of the top recruiters and frequently visiting companies at KARE.","source_reference":"Image 1 & Image 12 - Frequently Visited Companies"},
-  {"id":270,"category":"Recruiters","question":"What is the role of Accenture in KARE placements?","answer":"Accenture is one of the top recruiters at KARE, offering campus placements and internship opportunities to eligible students.","source_reference":"Image 4 - Placement Statistics & Image 12"},
-  {"id":271,"category":"Campus Life","question":"What is the name of KARE's dance club?","answer":"The dance club at KARE is called Visakha, and students can join it based on their interest.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":272,"category":"Campus Life","question":"Are there individual project opportunities for students at KARE?","answer":"Yes, students complete 2 projects per semester under faculty and research scholar guidance, and are encouraged to present at events organized by various universities.","source_reference":"Reviews.docx - Guru Vinitha Review"},
-  {"id":273,"category":"Faculty","question":"What qualifications do KARE faculty typically hold?","answer":"Faculty members at KARE typically hold postgraduate or doctoral degrees in their respective fields, with approximately 90% holding doctorates.","source_reference":"Reviews.docx - Thanikonda venkata karthik Review & Gajendran R Review"},
-  {"id":274,"category":"Faculty","question":"Are faculty interactive and supportive at KARE?","answer":"Yes, faculty at KARE are described as interactive and supportive, often helping students beyond academics in career guidance, research, and personal development.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":275,"category":"Student Reviews","question":"What overall rating do students give KARE?","answer":"Students generally rate KARE positively, with most reviews rating overall experience between 3.5 to 5 out of 5, citing strong placements, good faculty, and beautiful campus environment.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":276,"category":"Student Reviews","question":"Do students recommend Kalasalingam University?","answer":"Most students recommend KARE based on its placement record, merit-based scholarships, affordable fees compared to other private universities, faculty quality, and campus environment.","source_reference":"Reviews.docx - Multiple Student Reviews"},
-  {"id":277,"category":"Student Reviews","question":"What feedback do KARE students give about training for placements?","answer":"Students mention that KARE provides extensive training in programming and soft skills through the Placement and Training Cell, which is appreciated for enhancing employability.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":278,"category":"Hostel & Facilities","question":"Does KARE have a photographic club?","answer":"Yes, KARE has a Photographic Club as one of its student activity clubs on campus.","source_reference":"Reviews.docx - Pasupuleti Amareswara Review"},
-  {"id":279,"category":"Hostel & Facilities","question":"Do hostel rooms have individual lockers?","answer":"Yes, each student in the hostel is provided an individual locker (cupboard) for their belongings.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":280,"category":"Placements","question":"Does KARE encourage entrepreneurship among students?","answer":"Yes, KARE has an IEDC (Innovation and Entrepreneurship Development Cell) that encourages entrepreneurship and supports start-up initiatives among students.","source_reference":"Image 11 - Students' Opinion"},
-  {"id":281,"category":"Admissions","question":"Does KARE offer admissions based on merit without an entrance exam?","answer":"Yes, for certain programs like B.Sc, B.Com, and BBA, KARE offers merit-based admissions without a mandatory entrance exam.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":282,"category":"Admissions","question":"What is the minimum percentage for B.Sc admission at KARE?","answer":"B.Sc admission at KARE requires 10+2 from a recognized board, and the minimum percentage criterion is 50%.","source_reference":"Image 3 - Admissions Process 2026"},
-  {"id":283,"category":"Courses & Departments","question":"Is B.Com (Computer Applications) available at KARE?","answer":"Yes, KARE offers B.Com in Computer Applications as one of its 3 B.Com courses, as confirmed in the course listing and student reviews.","source_reference":"Image 17 - B.Com Course Listing & Reviews.docx - Yuva Review"},
-  {"id":284,"category":"General Information","question":"Does KARE offer MBA with CAT as entry requirement?","answer":"Yes, MBA at KARE requires graduation with 60% and a valid CAT score (or MAT/TANCET/Kalasalingam Test) for admission.","source_reference":"Image 14 - MBA Course Listing"},
-  {"id":285,"category":"General Information","question":"Is KARE affiliated with any central body for research?","answer":"KARE is a deemed-to-be university accredited by NBA and ABET, approved by UGC, AICTE, and COA, and holds A++ NAAC grade, making it an autonomous research-focused university.","source_reference":"Image 1 - General Overview"},
-  {"id":286,"category":"Placements","question":"What is the placement record for PG 2nd year in 2022-23 at KARE?","answer":"In 2022-23, 268 PG 2nd year students graduated and 217 were placed with a peak median salary of INR 5,90,000.","source_reference":"Image 8 - PG 2nd Year NIRF Placement Report 2025"},
-  {"id":287,"category":"Recruiters","question":"Is SPIC a recruiter at KARE?","answer":"Yes, SPIC (South Petrochemical Industries Corporation) is listed as one of the frequently visiting companies at KARE for placements.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":288,"category":"Recruiters","question":"Does Syntel recruit from KARE?","answer":"Yes, Syntel is listed as one of the frequently visiting companies for placements at KARE.","source_reference":"Image 12 - Frequently Visited Companies"},
-  {"id":289,"category":"Campus Life","question":"Does KARE have a social service club?","answer":"Yes, KARE has a Social Service Group among its clubs, encouraging community involvement alongside academics.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":290,"category":"Hostel & Facilities","question":"Are there food options near the KARE campus for students?","answer":"Yes, there are tea shops, small cafes, and food stalls near the campus gate, and the area within 300 metres is described as safe with accessible food options.","source_reference":"Reviews.docx - Gajendran R Review"},
-  {"id":291,"category":"Fees & Scholarships","question":"Do scholarship amounts remain fixed for all 4 years of B.Tech at KARE?","answer":"Scholarships at KARE are primarily awarded at the time of admission based on 12th marks; the tuition fee may change in subsequent years, but the scholarship basis is set at admission.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":292,"category":"Admissions","question":"Are there any caste-based reservations for KARE scholarships?","answer":"No, KARE's scholarships are entirely merit-based and not based on caste; they are calculated purely on 10+2 percentage.","source_reference":"Reviews.docx - Chandra sidhardha Review"},
-  {"id":293,"category":"Courses & Departments","question":"What are popular job roles after B.Tech CSE at KARE?","answer":"Popular job roles after B.Tech CSE include Software Developer, Applications Engineer, Solutions Engineer, Information Technology roles, and Senior SAP Consultant.","source_reference":"chatbot_infoziant_.docx - B.Tech CSE Course Description"},
-  {"id":294,"category":"Courses & Departments","question":"What are popular job roles after MBA at KARE?","answer":"Popular job roles after MBA include Human Resources Manager, Operations Manager, Marketing Manager, and Relationship Manager.","source_reference":"chatbot_infoziant_.docx - MBA Course Description"},
-  {"id":295,"category":"Courses & Departments","question":"What are popular job roles after MCA at KARE?","answer":"Popular job roles after MCA include Software Engineer, Software Developer, Data Engineer, and Java Programmer.","source_reference":"chatbot_infoziant_.docx - MCA Course Description"},
-  {"id":296,"category":"Courses & Departments","question":"What are popular job roles after B.Tech Mechanical Engineering at KARE?","answer":"Popular job roles after B.Tech Mechanical include Mechanical Engineer, Mechanical Design Engineer, and Senior Mechanical Engineer.","source_reference":"chatbot_infoziant_.docx - B.Tech Mechanical Course Description"},
-  {"id":297,"category":"Courses & Departments","question":"What are popular job roles after B.Tech ECE at KARE?","answer":"Popular job roles after B.Tech ECE include Electronics Engineer, Electrical Engineer, and Systems Administrator.","source_reference":"chatbot_infoziant_.docx - B.Tech ECE Course Description"},
-  {"id":298,"category":"Courses & Departments","question":"What are popular job roles after B.Com at KARE?","answer":"Popular job roles after B.Com include Chartered Accountant, Accounting Analyst, Equity Analyst, and Financial Analyst.","source_reference":"chatbot_infoziant_.docx - B.Com Course Description"},
-  {"id":299,"category":"Courses & Departments","question":"What are popular job roles after BBA at KARE?","answer":"Popular job roles after BBA include Financial Analyst, Marketing Executive, Business Analyst, Finance/Banking roles, and Risk Control Analyst.","source_reference":"chatbot_infoziant_.docx - BBA Course Description"},
-  {"id":300,"category":"Courses & Departments","question":"What are popular job roles after B.Sc Nursing at KARE?","answer":"Popular job roles after B.Sc Nursing include Staff Nurse, Registered Nurse, Nurse Educator, and Operating Room Nurse.","source_reference":"chatbot_infoziant_.docx - B.Sc Nursing Course Description"}
+  {
+    "id": 1,
+    "category": "General Information",
+    "question": "What is the full name of Kalasalingam University?",
+    "answer": "The full name is Kalasalingam Academy of Research and Education, commonly abbreviated as KARE.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 2,
+    "category": "General Information",
+    "question": "Where is Kalasalingam University located?",
+    "answer": "Kalasalingam University (KARE) is located in Krishnankovil, Tamil Nadu.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 3,
+    "category": "General Information",
+    "question": "When was Kalasalingam University established?",
+    "answer": "Kalasalingam University was established in 1984.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 4,
+    "category": "General Information",
+    "question": "How many schools does KARE have?",
+    "answer": "The university has 12 schools across various disciplines.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 5,
+    "category": "General Information",
+    "question": "Which regulatory bodies have approved Kalasalingam University?",
+    "answer": "Kalasalingam University is approved by UGC (University Grants Commission), AICTE, and COA.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 6,
+    "category": "General Information",
+    "question": "What accreditations does KARE hold?",
+    "answer": "Kalasalingam University is accredited by the NBA and ABET, and has been awarded an A++ Grade by NAAC.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 7,
+    "category": "General Information",
+    "question": "What is KARE's NAAC grade?",
+    "answer": "KARE has been awarded an A++ Grade by NAAC.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 8,
+    "category": "General Information",
+    "question": "What is Kalasalingam University's NIRF ranking for B.Tech in 2025?",
+    "answer": "Kalasalingam University has been ranked 33rd for B.Tech by NIRF in 2025 in India.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 9,
+    "category": "General Information",
+    "question": "What is KARE's Collegedunia ranking for B.Tech?",
+    "answer": "The university has been ranked 256th for B.Tech by Collegedunia in 2025.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 10,
+    "category": "General Information",
+    "question": "What type of university is KARE?",
+    "answer": "KARE is a deemed-to-be university.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 11,
+    "category": "General Information",
+    "question": "What is the flagship program at Kalasalingam University?",
+    "answer": "B.Tech is the flagship program offered at Kalasalingam University.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 12,
+    "category": "General Information",
+    "question": "Is KARE ranked among top private universities in India?",
+    "answer": "Yes, students and reviewers mention KARE is ranked among the top 15 private universities in India, with a NIRF ranking below 40.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 13,
+    "category": "General Information",
+    "question": "How is the campus environment at KARE?",
+    "answer": "The campus is described as large, beautiful, and green, surrounded by mountains near the western valley, providing a peaceful and chill climate.",
+    "source_reference": "Reviews.docx - Student Reviews"
+  },
+  {
+    "id": 14,
+    "category": "General Information",
+    "question": "Does KARE have a hospital on campus?",
+    "answer": "Yes, there is a hospital within the campus with a 24/7 ambulance facility, and medical treatment is completely free for students.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 15,
+    "category": "General Information",
+    "question": "What tourist destinations are near the KARE campus?",
+    "answer": "The campus is close to popular destinations like Kodaikanal, Munnar, Coimbatore, Kanyakumari, Wayanad, and Varkala, all within approximately 300 km.",
+    "source_reference": "Reviews.docx - Manisai Polisetty Review"
+  },
+  {
+    "id": 16,
+    "category": "General Information",
+    "question": "What is KARE's Collegedunia ranking for M.Tech?",
+    "answer": "KARE's M.Tech program is ranked #257 out of 500 by Collegedunia.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 17,
+    "category": "General Information",
+    "question": "Does KARE have a yoga facility on campus?",
+    "answer": "Yes, there is a yoga sala available on campus for students.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 18,
+    "category": "General Information",
+    "question": "When did KARE open admissions for 2026?",
+    "answer": "KARE Admission 2026 was opened on February 10, 2026, and interested candidates can apply at kalasalingam.ac.in.",
+    "source_reference": "Image 1 - Key Updates"
+  },
+  {
+    "id": 19,
+    "category": "Admissions",
+    "question": "What is the eligibility for B.Tech admission at KARE?",
+    "answer": "The eligibility for B.Tech is 10+2 with a minimum of 50% marks and a valid JEE Main or Kalasalingam University Engineering Entrance Exam (KUEE) score.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 20,
+    "category": "Admissions",
+    "question": "What entrance exams are accepted for B.Tech admission?",
+    "answer": "KARE accepts JEE Mains and the Kalasalingam University Engineering Entrance Exam (KUEE) for B.Tech admissions, followed by TNEA counselling.",
+    "source_reference": "Image 1 & Image 3 - Admissions Process"
+  },
+  {
+    "id": 21,
+    "category": "Admissions",
+    "question": "What is the eligibility for MBA admission at KARE?",
+    "answer": "MBA admission requires graduation with minimum 60% marks, and is based on CAT, MAT, TANCET, or the Kalasalingam University Test.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 22,
+    "category": "Admissions",
+    "question": "What are the eligibility and admission criteria for MCA?",
+    "answer": "MCA requires graduation in a relevant discipline as eligibility, and admission is based on merit or a University Entrance Test.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 23,
+    "category": "Admissions",
+    "question": "How is admission to B.Arch done at KARE?",
+    "answer": "B.Arch admission requires 10+2 with minimum 50% marks and Mathematics as a subject, and is based on NATA score.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 24,
+    "category": "Admissions",
+    "question": "What is the eligibility for B.Sc (Nursing) admission at KARE?",
+    "answer": "B.Sc (Nursing) requires 10+2 with Physics, Chemistry, Biology and English, and admission is merit-based with an eligibility screening.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 25,
+    "category": "Admissions",
+    "question": "How is Ph.D admission done at KARE?",
+    "answer": "Ph.D admission requires Post Graduation in a relevant field and is done through an Entrance Test plus Interview.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 26,
+    "category": "Admissions",
+    "question": "What is the tentative JEE Mains exam date for B.Tech admissions 2026?",
+    "answer": "The JEE Mains exam date for B.Tech admissions 2026 is tentatively scheduled from January 22 to January 30, 2026.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 27,
+    "category": "Admissions",
+    "question": "When does JEE Mains registration start for 2026 B.Tech admissions?",
+    "answer": "JEE Mains registration for B.Tech 2026 admissions tentatively started on October 30, 2025.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 28,
+    "category": "Admissions",
+    "question": "What is the last date for JEE Mains registration for 2026 admissions?",
+    "answer": "The last date of JEE Mains registration for 2026 admissions is tentatively November 27, 2025.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 29,
+    "category": "Admissions",
+    "question": "When will the JEE Mains result be declared for 2026 B.Tech admissions?",
+    "answer": "The JEE Mains result date is tentatively set for mid-February 2026.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 30,
+    "category": "Admissions",
+    "question": "When does CAT registration open for MBA admissions 2026?",
+    "answer": "CAT registration for MBA admissions 2026 tentatively opened on August 1, 2025.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 31,
+    "category": "Admissions",
+    "question": "When does CAT registration close for MBA admissions at KARE?",
+    "answer": "CAT registration closes tentatively on September 13, 2025 for MBA admissions 2026.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 32,
+    "category": "Admissions",
+    "question": "What is the CAT test date for MBA admissions 2026?",
+    "answer": "The CAT test date for MBA admissions 2026 is tentatively November 30, 2025.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 33,
+    "category": "Admissions",
+    "question": "When is the CAT result declared for MBA 2026 admissions?",
+    "answer": "The CAT result declaration for MBA 2026 admissions is expected in the first week of January 2026.",
+    "source_reference": "Image 2 - Admission Dates 2026"
+  },
+  {
+    "id": 34,
+    "category": "Admissions",
+    "question": "Does KARE conduct its own engineering entrance exam?",
+    "answer": "Yes, KARE has its own Kalasalingam University Engineering Entrance Exam (KUEE) for B.Tech admissions.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 35,
+    "category": "Admissions",
+    "question": "What is the B.Com eligibility criteria at KARE?",
+    "answer": "B.Com requires 10+2 with minimum 55% marks and admission is merit-based.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 36,
+    "category": "Admissions",
+    "question": "What is the eligibility for M.Sc admission at KARE?",
+    "answer": "M.Sc requires graduation with minimum 60% marks and admission is merit-based.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 37,
+    "category": "Admissions",
+    "question": "What entrance exams does KARE accept for professional degree courses?",
+    "answer": "KARE accepts JEE Mains, NATA, GATE, KUEE, and CAT for various professional degree courses such as B.Tech, B.Arch, M.Tech, and MBA.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 38,
+    "category": "Admissions",
+    "question": "What is the application deadline for B.Tech at KARE?",
+    "answer": "The application date for B.Tech at KARE was tentatively August 31, 2025.",
+    "source_reference": "Image 13 - B.Tech Course Listing"
+  },
+  {
+    "id": 39,
+    "category": "Admissions",
+    "question": "What is the application date for MBA at KARE?",
+    "answer": "The MBA application date at KARE was from June 5 to June 30, 2025.",
+    "source_reference": "Image 14 - MBA Course Listing"
+  },
+  {
+    "id": 40,
+    "category": "Admissions",
+    "question": "What is the application date for MCA at KARE?",
+    "answer": "The MCA application date at KARE was from June 10 to July 4, 2025.",
+    "source_reference": "Image 15 - MCA Course Listing"
+  },
+  {
+    "id": 41,
+    "category": "Admissions",
+    "question": "What is the application date for M.Tech at KARE?",
+    "answer": "The M.Tech application date at KARE was tentatively August 31, 2025, requiring graduation with 50% and GATE.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 42,
+    "category": "Admissions",
+    "question": "What is the Ph.D application date at KARE?",
+    "answer": "The Ph.D application date at KARE was from March 3 to May 10, 2025.",
+    "source_reference": "Image 13 - Ph.D Course Listing"
+  },
+  {
+    "id": 43,
+    "category": "Admissions",
+    "question": "What is the eligibility for B.Tech Lateral entry at KARE?",
+    "answer": "B.Tech Lateral entry requires a Diploma with 60% marks.",
+    "source_reference": "Image 17 - B.Tech Lateral Course Listing"
+  },
+  {
+    "id": 44,
+    "category": "Admissions",
+    "question": "What is the eligibility for B.Sc admission at KARE?",
+    "answer": "B.Sc requires 10+2 from a recognized board with minimum 50% marks, and admission is merit-based.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 45,
+    "category": "Admissions",
+    "question": "What documents are needed for KARE admission?",
+    "answer": "Students need to submit their inter marksheet, EAMCET rank card or JEE Main score card for scholarship and admission processing at KARE.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 46,
+    "category": "Courses & Departments",
+    "question": "How many B.Tech courses does KARE offer?",
+    "answer": "KARE offers 19 B.Tech courses as a 4-year full-time program.",
+    "source_reference": "Image 13 - B.Tech Course Listing"
+  },
+  {
+    "id": 47,
+    "category": "Courses & Departments",
+    "question": "How many Ph.D courses are available at KARE?",
+    "answer": "KARE offers 17 Ph.D courses as a 3-year full-time program.",
+    "source_reference": "Image 13 - Ph.D Course Listing"
+  },
+  {
+    "id": 48,
+    "category": "Courses & Departments",
+    "question": "How many B.Sc courses are offered at KARE?",
+    "answer": "KARE offers 18 B.Sc courses as a 3-year full-time program.",
+    "source_reference": "Image 14 - B.Sc Course Listing"
+  },
+  {
+    "id": 49,
+    "category": "Courses & Departments",
+    "question": "How many MBA specializations does KARE offer?",
+    "answer": "KARE offers 2 MBA courses as a 2-year full-time program.",
+    "source_reference": "Image 14 - MBA Course Listing"
+  },
+  {
+    "id": 50,
+    "category": "Courses & Departments",
+    "question": "How many M.Tech programs does KARE offer?",
+    "answer": "KARE offers 11 M.Tech courses as a 2-year full-time program.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 51,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the B.Tech Lateral program at KARE?",
+    "answer": "The B.Tech Lateral program is a 3-year full-time program for diploma holders with 60% marks.",
+    "source_reference": "Image 17 - B.Tech Lateral Course Listing"
+  },
+  {
+    "id": 52,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the BA+LLB program at KARE?",
+    "answer": "The BA+LLB program is a 5-year full-time program with 10+2 with 50% as eligibility.",
+    "source_reference": "Image 16 - BA.LLB Course Listing"
+  },
+  {
+    "id": 53,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer a B.Sc Nursing program?",
+    "answer": "Yes, KARE offers a 4-year full-time B.Sc (Nursing) program with total fees of INR 5.48 Lakhs.",
+    "source_reference": "Image 15 - B.Sc Nursing Course Listing"
+  },
+  {
+    "id": 54,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer B.Tech in Cyber Security?",
+    "answer": "Yes, KARE offers a B.Tech in Cyber Security program as confirmed by student reviews.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik Review"
+  },
+  {
+    "id": 55,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer B.Tech in AI and Machine Learning?",
+    "answer": "Yes, KARE offers B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 56,
+    "category": "Courses & Departments",
+    "question": "What is the MCA IIRF ranking at KARE?",
+    "answer": "KARE's MCA program is ranked #26 out of 63 by IIRF.",
+    "source_reference": "Image 15 - MCA Course Listing"
+  },
+  {
+    "id": 57,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer extra elective courses like Blockchain or Game Development?",
+    "answer": "Yes, KARE provides extra elective courses such as Blockchain Technology and Game Development within the B.Tech IT curriculum.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 58,
+    "category": "Courses & Departments",
+    "question": "What is the typical class size for B.Tech programs at KARE?",
+    "answer": "The class size for B.Tech programs typically ranges from 60 to 75 students per section.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 59,
+    "category": "Courses & Departments",
+    "question": "What programs are offered at the undergraduate level at KARE?",
+    "answer": "KARE offers B.Tech, B.Sc, B.Com, BBA, B.Arch, BA+LLB, LLB, and BSc (Nursing) as undergraduate programs.",
+    "source_reference": "Images 13-17 - Course Listings"
+  },
+  {
+    "id": 60,
+    "category": "Courses & Departments",
+    "question": "What postgraduate programs are available at KARE?",
+    "answer": "KARE offers MBA, MCA, M.Tech, and M.Sc as postgraduate programs.",
+    "source_reference": "Images 14-16 - Course Listings"
+  },
+  {
+    "id": 61,
+    "category": "Courses & Departments",
+    "question": "How many B.Com courses are available at KARE?",
+    "answer": "KARE offers 3 B.Com courses as a 3-year full-time program, as per the course listing.",
+    "source_reference": "Image 17 - B.Com Course Listing"
+  },
+  {
+    "id": 62,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer a BBA program?",
+    "answer": "Yes, KARE offers a Bachelor of Business Administration (BBA) program as a 3-year full-time course.",
+    "source_reference": "Image 16 - BBA Course Listing"
+  },
+  {
+    "id": 63,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer a B.Tech in Information Technology?",
+    "answer": "Yes, KARE offers B.Tech in Information Technology, as confirmed by student reviewers enrolled in the program.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 64,
+    "category": "Courses & Departments",
+    "question": "How many exams are conducted per semester at KARE?",
+    "answer": "Each semester includes 2 sessional (mid) exams, 1 mid practical, 1 end practical, and 1 final theory semester examination.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 65,
+    "category": "Courses & Departments",
+    "question": "How is GPA calculated at KARE?",
+    "answer": "KARE uses a relative grading method for GPA calculation, which helps students score well more easily.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 66,
+    "category": "Fees & Scholarships",
+    "question": "What is the UG fee structure for 2026-27 at KARE?",
+    "answer": "The UG fee structure for 2026-27 has been released, with the total academic fee ranging from INR 1 Lakh to INR 8.2 Lakhs.",
+    "source_reference": "Image 1 - Key Updates"
+  },
+  {
+    "id": 67,
+    "category": "Fees & Scholarships",
+    "question": "What is the PG fee structure for 2026-27?",
+    "answer": "The PG fee structure for 2026-27 shows the total academic fee ranging from INR 90,000 to INR 3.34 Lakhs.",
+    "source_reference": "Image 1 - Key Updates"
+  },
+  {
+    "id": 68,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee range for B.Tech at KARE?",
+    "answer": "The first-year fee for B.Tech ranges from INR 1,22,000 to INR 2,07,000 depending on the branch, with the total program fees ranging from INR 4.58 Lakhs to INR 7.98 Lakhs.",
+    "source_reference": "Image 3 - Course Fee Table & Image 13"
+  },
+  {
+    "id": 69,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Sc at KARE?",
+    "answer": "The first-year fee for B.Sc is INR 35,000 to INR 1,46,000, with total program fees ranging from INR 1.05 Lakhs to INR 3.58 Lakhs.",
+    "source_reference": "Image 3 - Course Fee Table & Image 14"
+  },
+  {
+    "id": 70,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for MBA at KARE?",
+    "answer": "The first-year fee for MBA is INR 90,600 to INR 1,22,000, with total program fees of INR 3.34 Lakhs for the 2-year course.",
+    "source_reference": "Image 3 - Course Fee Table & Image 14"
+  },
+  {
+    "id": 71,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for MCA at KARE?",
+    "answer": "The first-year fee for MCA is INR 1,22,000, with total program fees of INR 3.34 Lakhs for the 2-year program.",
+    "source_reference": "Image 3 - Course Fee Table & Image 15"
+  },
+  {
+    "id": 72,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for Ph.D at KARE?",
+    "answer": "The first-year fee for Ph.D is INR 70,000, with total program fees of INR 2.1 Lakhs for the 3-year program.",
+    "source_reference": "Image 3 - Course Fee Table & Image 13"
+  },
+  {
+    "id": 73,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Arch at KARE?",
+    "answer": "The first-year fee for B.Arch is INR 1,22,000, requiring 10+2 with 50% and NATA score.",
+    "source_reference": "Image 3 - Course Fee Table"
+  },
+  {
+    "id": 74,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for M.Sc at KARE?",
+    "answer": "The first-year fee for M.Sc is INR 45,000 to INR 55,000, requiring graduation with 60%.",
+    "source_reference": "Image 3 - Course Fee Table"
+  },
+  {
+    "id": 75,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Com at KARE?",
+    "answer": "The first-year fee for B.Com is INR 50,000, with total program fees ranging from INR 1.5 Lakhs to INR 1.95 Lakhs for the 3-year program.",
+    "source_reference": "Image 3 - Course Fee Table & Image 17"
+  },
+  {
+    "id": 76,
+    "category": "Fees & Scholarships",
+    "question": "What are the total fees for the M.Tech program at KARE?",
+    "answer": "Total fees for M.Tech at KARE are INR 1.74 Lakhs for the 2-year program, requiring graduation with 50% and GATE.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 77,
+    "category": "Fees & Scholarships",
+    "question": "What are the total fees for the B.Tech Lateral program at KARE?",
+    "answer": "Total fees for B.Tech Lateral at KARE range from INR 3.46 Lakhs to INR 6.01 Lakhs for the 3-year program.",
+    "source_reference": "Image 17 - B.Tech Lateral Course Listing"
+  },
+  {
+    "id": 78,
+    "category": "Fees & Scholarships",
+    "question": "What is the total fee for the BA.LLB program?",
+    "answer": "The total fees for the BA.LLB program at KARE are INR 8.2 Lakhs for the 5-year program, with 10+2 with 50% as eligibility.",
+    "source_reference": "Image 16 - BA.LLB Course Listing"
+  },
+  {
+    "id": 79,
+    "category": "Fees & Scholarships",
+    "question": "What are the total fees for the LLB program?",
+    "answer": "Total fees for LLB (Hons.) at KARE are INR 6 Lakhs for the 3-year program.",
+    "source_reference": "Image 17 - LLB Course Listing"
+  },
+  {
+    "id": 80,
+    "category": "Fees & Scholarships",
+    "question": "What are the total fees for the BBA program at KARE?",
+    "answer": "Total fees for BBA at KARE are INR 1.05 Lakhs for the 3-year program, with 10+2 as eligibility.",
+    "source_reference": "Image 16 - BBA Course Listing"
+  },
+  {
+    "id": 81,
+    "category": "Fees & Scholarships",
+    "question": "What is the B.Sc (Nursing) total fee at KARE?",
+    "answer": "The total fees for the B.Sc (Nursing) program at KARE are INR 5.48 Lakhs for the 4-year program, with 10+2 as eligibility.",
+    "source_reference": "Image 15 - B.Sc Nursing Course Listing"
+  },
+  {
+    "id": 82,
+    "category": "Fees & Scholarships",
+    "question": "What is the tuition fee for B.Tech CSE at KARE?",
+    "answer": "The annual tuition fee for B.Tech CSE is approximately INR 1,85,000 per year as mentioned by students.",
+    "source_reference": "Reviews.docx - Chandra sidhardha & Pasupuleti Reviews"
+  },
+  {
+    "id": 83,
+    "category": "Fees & Scholarships",
+    "question": "What is the tuition fee for B.Tech Mechanical Engineering at KARE?",
+    "answer": "The tuition fee for B.Tech Mechanical Engineering is approximately INR 1,00,000 per year.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 84,
+    "category": "Fees & Scholarships",
+    "question": "Does KARE offer merit-based scholarships?",
+    "answer": "Yes, KARE offers merit-based scholarships based on the student's 12th standard or intermediate percentage marks, entirely merit-based and not based on caste.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 85,
+    "category": "Fees & Scholarships",
+    "question": "What scholarship do students with 95% or above in intermediate receive?",
+    "answer": "Students who score 95% or above in their intermediate exams receive a 50% scholarship on tuition fees.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 86,
+    "category": "Fees & Scholarships",
+    "question": "What scholarship is given for students scoring 90% in intermediate?",
+    "answer": "Students who score 90% in their intermediate exams receive a 40% scholarship on tuition fees.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 87,
+    "category": "Fees & Scholarships",
+    "question": "What scholarship percentage is provided for 85% to 89% in intermediate?",
+    "answer": "Students scoring between 85% and 89% in intermediate receive a 30% scholarship on tuition fees.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 88,
+    "category": "Fees & Scholarships",
+    "question": "How is scholarship eligibility determined for B.Tech Mechanical at KARE?",
+    "answer": "For B.Tech Mechanical, scholarship is based on 12th PCM marks: scoring 80% PCM gives 50% scholarship and 70% PCM gives 35% scholarship, and it varies by department.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 89,
+    "category": "Fees & Scholarships",
+    "question": "What is the application fee at KARE?",
+    "answer": "The application fee at KARE is INR 700.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik Review"
+  },
+  {
+    "id": 90,
+    "category": "Fees & Scholarships",
+    "question": "What is the one-time admission fee at KARE?",
+    "answer": "The one-time admission fee at KARE is INR 10,000.",
+    "source_reference": "Reviews.docx - Gajendran R & Thanikonda venkata karthik Reviews"
+  },
+  {
+    "id": 91,
+    "category": "Fees & Scholarships",
+    "question": "What is the miscellaneous fee at KARE?",
+    "answer": "The miscellaneous fee at KARE is INR 10,000 to INR 12,000 per year, which typically covers lab coat, sports dress, notebooks, and lab records.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 92,
+    "category": "Fees & Scholarships",
+    "question": "Can students pay tuition fees in installments?",
+    "answer": "Yes, the tuition fee can be paid in two terms spread across two semesters per year.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 93,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Tech Computer Science at KARE?",
+    "answer": "The first-year fee for B.Tech Computer Science is INR 1.85 Lakh as per available data.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 94,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Tech Biotechnology at KARE?",
+    "answer": "The first-year fee for B.Tech Biotechnology is INR 1 Lakh.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 95,
+    "category": "Fees & Scholarships",
+    "question": "What is the first-year fee for B.Tech ECE at KARE?",
+    "answer": "The first-year fee for B.Tech ECE is INR 1.5 Lakh.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 96,
+    "category": "Fees & Scholarships",
+    "question": "Are fees required to be paid before exams at KARE?",
+    "answer": "Yes, students must pay their semester fees before exams; failing to do so will prevent them from sitting in the examination.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 97,
+    "category": "Fees & Scholarships",
+    "question": "What does the B.Com student pay per year at KARE?",
+    "answer": "A B.Com student at KARE pays approximately INR 55,000 as tuition fees per year, as mentioned by a student reviewer.",
+    "source_reference": "Reviews.docx - Yuva Review"
+  },
+  {
+    "id": 98,
+    "category": "Fees & Scholarships",
+    "question": "What is the total first-year expense for a B.Sc (additional row)?",
+    "answer": "As per the additional fee table row, one B.Sc first-year fee is INR 1,37,000.",
+    "source_reference": "Image 3 - Course Fee Table"
+  },
+  {
+    "id": 99,
+    "category": "Fees & Scholarships",
+    "question": "Does KARE's scholarship change based on department?",
+    "answer": "Yes, the scholarship percentage at KARE is changeable based on department and the percentage thresholds may differ per branch.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 100,
+    "category": "Fees & Scholarships",
+    "question": "What is the total B.Tech fee for all 4 years at KARE?",
+    "answer": "The total B.Tech fee for all 4 years at KARE ranges from INR 4.58 Lakhs to INR 7.98 Lakhs depending on the branch.",
+    "source_reference": "Image 13 - B.Tech Course Listing"
+  },
+  {
+    "id": 101,
+    "category": "Hostel & Facilities",
+    "question": "How many hostels are there at Kalasalingam University?",
+    "answer": "The university has a total of 9 hostels overall, with 3 hostels for ladies and 6 for gents.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 102,
+    "category": "Hostel & Facilities",
+    "question": "What types of hostel rooms are available at KARE?",
+    "answer": "KARE offers 2-sharing, 4-sharing, and 5-sharing rooms, with options for AC/non-AC and attached/non-attached washrooms.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 103,
+    "category": "Hostel & Facilities",
+    "question": "What is the fee for a 4-sharing non-AC non-attached washroom hostel room?",
+    "answer": "The fee for a 4-sharing non-AC non-attached washroom hostel room is INR 87,000 per year.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 104,
+    "category": "Hostel & Facilities",
+    "question": "What is the fee for a 4-sharing AC attached washroom hostel room?",
+    "answer": "The fee for a 4-sharing AC attached washroom hostel room is INR 1,30,000 per year.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 105,
+    "category": "Hostel & Facilities",
+    "question": "What is the fee for a 5-sharing non-AC attached washroom hostel room?",
+    "answer": "The fee for a 5-sharing non-AC attached washroom hostel room is INR 95,000 per year.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 106,
+    "category": "Hostel & Facilities",
+    "question": "What is the fee for a 2-sharing hostel room at KARE?",
+    "answer": "The fee for a 2-sharing hostel room is INR 85,000 per year.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 107,
+    "category": "Hostel & Facilities",
+    "question": "What basic furniture is provided in hostel rooms at KARE?",
+    "answer": "Each hostel room is furnished with a bed, chair, table, and cupboard (locker) for every student, along with a dressing table.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 108,
+    "category": "Hostel & Facilities",
+    "question": "Is Wi-Fi available in KARE hostels?",
+    "answer": "Yes, Wi-Fi internet access is available in the hostels at KARE.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik & Aaditya Raj Reviews"
+  },
+  {
+    "id": 109,
+    "category": "Hostel & Facilities",
+    "question": "What is the hostel gate closing time for boys?",
+    "answer": "The hostel gate closes at 8:00 PM for boys as mentioned consistently in student reviews.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 110,
+    "category": "Hostel & Facilities",
+    "question": "What is the hostel gate closing time for girls?",
+    "answer": "The hostel gate closes at 6:00 PM to 7:00 PM for girls, as mentioned across different student reviews.",
+    "source_reference": "Reviews.docx - Guru Vinitha & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 111,
+    "category": "Hostel & Facilities",
+    "question": "How does hostel registration work at KARE?",
+    "answer": "Hostel registration is done by logging into the college hostel website, choosing the preferred room type, and paying the fee. Registration typically starts one month before the campus opens.",
+    "source_reference": "Reviews.docx - Chandra sidhardha & Manisai Polisetty Reviews"
+  },
+  {
+    "id": 112,
+    "category": "Hostel & Facilities",
+    "question": "Does the hostel fee include food and other amenities?",
+    "answer": "Yes, the hostel fee is inclusive of food, laundry, and other basic amenities.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 113,
+    "category": "Hostel & Facilities",
+    "question": "Is there a separate mess for North Indian or Telugu students?",
+    "answer": "Yes, there is a Telugu mess and separate options to satisfy both North and South Indian students' food preferences.",
+    "source_reference": "Reviews.docx - Chandra sidhardha & Guru Vinitha Reviews"
+  },
+  {
+    "id": 114,
+    "category": "Hostel & Facilities",
+    "question": "How do students rate hostel food quality at KARE?",
+    "answer": "Students give mixed reviews — some say the food is average with a repeating menu, while others find basic meals like rice, dal, sabji, and chapati adequate; the food quality is not consistently rated high.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 115,
+    "category": "Hostel & Facilities",
+    "question": "Are outside food items allowed in the hostel?",
+    "answer": "No, outside foods are not allowed inside the hostel as per hostel rules.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 116,
+    "category": "Hostel & Facilities",
+    "question": "Is there a gym at KARE?",
+    "answer": "Yes, there is a separate gym facility for both boy and girl students on campus, and it is free for all students.",
+    "source_reference": "Reviews.docx - Manisai Polisetty & Guru Vinitha Reviews"
+  },
+  {
+    "id": 117,
+    "category": "Hostel & Facilities",
+    "question": "What sports facilities are available at KARE?",
+    "answer": "The campus has a physical stadium, cricket ground, football ground, tennis court, and badminton courts for both girls and boys.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 118,
+    "category": "Hostel & Facilities",
+    "question": "Does KARE have a library?",
+    "answer": "Yes, KARE has a large library with a wide range of books and journals, described as one of the finest facilities on campus.",
+    "source_reference": "Reviews.docx - Aaditya Raj & Gajendran R Reviews"
+  },
+  {
+    "id": 119,
+    "category": "Hostel & Facilities",
+    "question": "Are classrooms equipped with projectors and smart boards?",
+    "answer": "Yes, classrooms at KARE have projectors, Wi-Fi, and smart boards in certain blocks, making learning more interactive.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 120,
+    "category": "Hostel & Facilities",
+    "question": "Does the hostel conduct monthly events or activities?",
+    "answer": "Yes, the hostel provides monthly events, games, and a food fest every month for residents.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 121,
+    "category": "Hostel & Facilities",
+    "question": "Is healthcare free for students at KARE?",
+    "answer": "Yes, KARE provides free healthcare for every student, with a hospital inside the campus and a 24/7 ambulance facility.",
+    "source_reference": "Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 122,
+    "category": "Hostel & Facilities",
+    "question": "How are KARE's labs described by students?",
+    "answer": "Labs are described as good and well-equipped, with stream-specific labs for CSE, ECE, EEE, and other departments, though some computers occasionally have technical issues.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 123,
+    "category": "Hostel & Facilities",
+    "question": "Does KARE have separate portals for academic and hostel purposes?",
+    "answer": "Yes, KARE has separate portals for both academic and hostel purposes.",
+    "source_reference": "Reviews.docx - Manisai Polisetty Review"
+  },
+  {
+    "id": 124,
+    "category": "Hostel & Facilities",
+    "question": "Does the hostel fee increase every year?",
+    "answer": "Yes, hostel fees may increase by approximately INR 5,000 every year based on increases in food and operational expenses.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 125,
+    "category": "Hostel & Facilities",
+    "question": "What is the hostel fee range at KARE?",
+    "answer": "Hostel fees at KARE start from approximately INR 65,000 for non-attached non-AC rooms and go up to INR 1,40,000 for AC attached rooms, with various options in between.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 126,
+    "category": "Hostel & Facilities",
+    "question": "Are cafeterias and canteens available on the KARE campus?",
+    "answer": "Yes, there are cafes, canteens, and stalls available all around the campus for students.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 127,
+    "category": "Hostel & Facilities",
+    "question": "Does KARE have NCC and NSS facilities?",
+    "answer": "Yes, KARE has NCC and NSS facilities, with hostel gates opening at 4:00 AM for NCC and NSS members for morning sports and activities.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 128,
+    "category": "Hostel & Facilities",
+    "question": "What is the security situation around the KARE campus?",
+    "answer": "The locality is described as safe, with the campus area being secure, and there are shops, cafes, and small eateries near the campus gate.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 129,
+    "category": "Placements",
+    "question": "What is the highest placement package at KARE?",
+    "answer": "The highest placement package at Kalasalingam University is INR 50 LPA, with student reviews mentioning up to INR 54 LPA.",
+    "source_reference": "Image 4 - Placement 2026 & Image 11 - Students' Opinion"
+  },
+  {
+    "id": 130,
+    "category": "Placements",
+    "question": "What is the average placement package at KARE?",
+    "answer": "The average placement package at Kalasalingam University is approximately INR 4.5 to INR 5.7 LPA.",
+    "source_reference": "Image 4 & Image 9 - Placement Data"
+  },
+  {
+    "id": 131,
+    "category": "Placements",
+    "question": "What is the overall placement rate at KARE?",
+    "answer": "The official placement rate is 50%+, while student reviews indicate approximately 70–95% of students get placed each year.",
+    "source_reference": "Image 4 - Placement Statistics & Image 11 - Students' Opinion"
+  },
+  {
+    "id": 132,
+    "category": "Placements",
+    "question": "How many placement offers were made in recent years at KARE?",
+    "answer": "The university has made over 1,650 placement offers in recent years.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 133,
+    "category": "Placements",
+    "question": "Does KARE have a dedicated placement cell?",
+    "answer": "Yes, KARE has a dedicated Placement and Training Cell that coordinates with companies and prepares students through career guidance and workshops.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 134,
+    "category": "Placements",
+    "question": "What training does the Placement and Training Cell provide?",
+    "answer": "The Placement and Training Cell provides aptitude training, technical skill enhancement, soft skills and communication sessions, resume-building workshops, and mock interviews and group discussions.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 135,
+    "category": "Placements",
+    "question": "When do placement activities begin for UG students?",
+    "answer": "For UG students like B.Tech, placement training and company visits typically begin in the 7th semester.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 136,
+    "category": "Placements",
+    "question": "When do placement activities start for PG students?",
+    "answer": "For PG students like MBA and M.Tech, placement activities start from the 3rd semester.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 137,
+    "category": "Placements",
+    "question": "Are internships part of the placement process at KARE?",
+    "answer": "Yes, many companies offer internships with Pre-Placement Offers (PPOs) based on performance, especially in engineering and management programs.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 138,
+    "category": "Placements",
+    "question": "What is the median package for B.Tech students in 2024?",
+    "answer": "The median package for BE/B.Tech students in 2024 was INR 6.10 Lakhs.",
+    "source_reference": "Image 10 & Image 18 - Coursewise Placement Highlights"
+  },
+  {
+    "id": 139,
+    "category": "Placements",
+    "question": "What was the B.Tech median package in 2023?",
+    "answer": "The median package for BE/B.Tech students in 2023 was INR 6.75 Lakhs.",
+    "source_reference": "Image 10 & Image 18 - Coursewise Placement Highlights"
+  },
+  {
+    "id": 140,
+    "category": "Placements",
+    "question": "What was the B.Tech median package in 2022?",
+    "answer": "The median package for BE/B.Tech students in 2022 was INR 5.50 Lakhs.",
+    "source_reference": "Image 10 & Image 18 - Coursewise Placement Highlights"
+  },
+  {
+    "id": 141,
+    "category": "Placements",
+    "question": "What is the M.Tech median salary per NIRF Ranking 2026?",
+    "answer": "The M.Tech program recorded a median salary of INR 6,60,000 (INR 6.6 Lakhs) as per NIRF Ranking 2026.",
+    "source_reference": "Image 16 - M.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 142,
+    "category": "Placements",
+    "question": "How many B.Tech students were admitted and placed in 2024?",
+    "answer": "In 2024, 1,476 B.Tech students were admitted and 1,359 were placed.",
+    "source_reference": "Image 10 & Image 18 - Yearly Students Placed"
+  },
+  {
+    "id": 143,
+    "category": "Placements",
+    "question": "How many B.Tech students were placed in 2023?",
+    "answer": "In 2023, out of 1,255 students admitted, 1,219 were placed.",
+    "source_reference": "Image 10 & Image 18 - Yearly Students Placed"
+  },
+  {
+    "id": 144,
+    "category": "Placements",
+    "question": "How many B.Tech students were placed in 2022?",
+    "answer": "In 2022, out of 1,257 students admitted, 1,147 were placed.",
+    "source_reference": "Image 18 - Yearly Students Placed"
+  },
+  {
+    "id": 145,
+    "category": "Placements",
+    "question": "What is the UG 4th year NIRF placement data for 2023-24?",
+    "answer": "In 2023-24, 1,593 UG 4th year students graduated and 1,422 were placed with a median salary of INR 5,75,000.",
+    "source_reference": "Image 6 - UG 4th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 146,
+    "category": "Placements",
+    "question": "What was the highest median salary recorded for UG 4th year students?",
+    "answer": "The highest median salary for UG 4th year students was INR 6,75,000, recorded in the academic year 2022-23.",
+    "source_reference": "Image 6 - UG 4th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 147,
+    "category": "Placements",
+    "question": "What is the UG 3rd year NIRF placement data for 2023-24?",
+    "answer": "In 2023-24, 468 UG 3rd year students graduated and 329 were placed with a median salary of INR 4,00,000.",
+    "source_reference": "Image 5 - UG 3rd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 148,
+    "category": "Placements",
+    "question": "What is the UG 5th year NIRF placement data for 2023-24?",
+    "answer": "In 2023-24, 34 UG 5th year students graduated and 20 were placed with a median salary of INR 4,15,000.",
+    "source_reference": "Image 7 - UG 5th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 149,
+    "category": "Placements",
+    "question": "What is the PG 2nd year NIRF placement data for 2023-24?",
+    "answer": "In 2023-24, 271 PG 2nd year students graduated and 229 were placed with a median salary of INR 5,75,000.",
+    "source_reference": "Image 8 - PG 2nd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 150,
+    "category": "Placements",
+    "question": "What was the peak median salary for PG students in NIRF data?",
+    "answer": "The peak median salary for PG 2nd year students was INR 5,90,000, recorded in the academic year 2022-23.",
+    "source_reference": "Image 8 - PG 2nd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 151,
+    "category": "Placements",
+    "question": "What does the B.Tech NIRF 2026 data show for placement percentage?",
+    "answer": "The B.Tech program has a 93% placement percentage as per NIRF Ranking 2026 insights.",
+    "source_reference": "Image 13 - B.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 152,
+    "category": "Placements",
+    "question": "What is the passing percentage for B.Tech at KARE per NIRF 2026?",
+    "answer": "The B.Tech program has a 101% passing percentage as per NIRF Ranking 2026 insights.",
+    "source_reference": "Image 13 - B.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 153,
+    "category": "Placements",
+    "question": "What is the M.Tech placement percentage per NIRF 2026?",
+    "answer": "The M.Tech program has a 96% placement percentage and 100% passing percentage as per NIRF Ranking 2026.",
+    "source_reference": "Image 16 - M.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 154,
+    "category": "Placements",
+    "question": "What is the B.Tech median salary as per NIRF 2026?",
+    "answer": "The B.Tech median salary is INR 6,10,000 (INR 6.1 Lakhs) as per NIRF Ranking 2026.",
+    "source_reference": "Image 13 - B.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 155,
+    "category": "Placements",
+    "question": "Do CSE and ECE students get higher placement rates at KARE?",
+    "answer": "Yes, students from the CSE and ECE departments have higher placement rates compared to other departments at KARE.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 156,
+    "category": "Placements",
+    "question": "How many companies visit the KARE campus annually?",
+    "answer": "More than 500 companies visit the KARE campus annually, and approximately 300+ companies are tied up with the university.",
+    "source_reference": "Image 11 - Students' Opinion & Reviews.docx - Pasupuleti Review"
+  },
+  {
+    "id": 157,
+    "category": "Placements",
+    "question": "Does KARE provide one-to-one sessions for placement preparation?",
+    "answer": "Yes, KARE offers students one-to-one sessions, seminars, and mock interview support to achieve high placement rates.",
+    "source_reference": "Image 4 - Placement 2026"
+  },
+  {
+    "id": 158,
+    "category": "Placements",
+    "question": "Do pre-final year students get internship opportunities at KARE?",
+    "answer": "Yes, pre-final year students get internship and live project opportunities that sometimes convert into full-time roles.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 159,
+    "category": "Placements",
+    "question": "What is the CGPA criterion for placement at KARE?",
+    "answer": "Students are categorized into two groups for placements: those with CGPA above 8 and those below 8, each having separate interviews.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 160,
+    "category": "Placements",
+    "question": "From which semester can B.Tech students attend placement drives at KARE?",
+    "answer": "Students can start attending placement drives from the 6th or 7th semester onwards.",
+    "source_reference": "Reviews.docx - Gajendran R & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 161,
+    "category": "Placements",
+    "question": "What median package did UG 4th year students get in 2021-22?",
+    "answer": "UG 4th year students in 2021-22 had a median salary of INR 5,50,000, with 1,220 students graduating and 1,147 placed.",
+    "source_reference": "Image 6 - UG 4th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 162,
+    "category": "Placements",
+    "question": "What is the ME/M.Tech median package in 2024?",
+    "answer": "The ME/M.Tech programme recorded a median package of INR 6.6 Lakhs in 2024.",
+    "source_reference": "Image 10 - Coursewise Placement Highlights"
+  },
+  {
+    "id": 163,
+    "category": "Placements",
+    "question": "What is KARE's average placement package per the overall highlights?",
+    "answer": "The average package at KARE is INR 4.50 Lakhs as shown in the overall placement highlights.",
+    "source_reference": "Image 10 - Overall Placement Highlights"
+  },
+  {
+    "id": 164,
+    "category": "Recruiters",
+    "question": "Who are the top recruiters at Kalasalingam University?",
+    "answer": "Top recruiters include Amazon, Accenture, LG, Cognizant, Dell, HCL, ICICI Bank, Infosys, IBM, Ernst and Young, TCS, Wipro, and many more.",
+    "source_reference": "Image 4 - Placement Statistics & Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 165,
+    "category": "Recruiters",
+    "question": "Which IT companies frequently visit the KARE campus for placements?",
+    "answer": "Major IT companies that visit include Amazon, Cognizant, IBM, HCL Technologies, TCS, Wipro, Infosys, Hexaware, Tech Mahindra, Zoho, and Syntel.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 166,
+    "category": "Recruiters",
+    "question": "Does the Indian Navy recruit from Kalasalingam University?",
+    "answer": "Yes, the Indian Navy is listed as one of the frequently visiting organizations for placement at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 167,
+    "category": "Recruiters",
+    "question": "Does Zoho recruit from KARE?",
+    "answer": "Yes, Zoho is listed as a frequently visiting company for placements and internships at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 168,
+    "category": "Recruiters",
+    "question": "Does TCS recruit from KARE?",
+    "answer": "Yes, Tata Consultancy Services (TCS) is one of the major recruiters that visits the KARE campus for placements, mass hiring, and internships.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 169,
+    "category": "Recruiters",
+    "question": "Do automotive companies recruit from KARE?",
+    "answer": "Yes, automotive companies like TVS Motors and Ucal Fuel Systems are among the frequently visiting companies at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 170,
+    "category": "Recruiters",
+    "question": "What roles are typically offered to KARE students during campus placements?",
+    "answer": "Roles typically offered include software developer, data analyst, testing engineer, security engineer, and core engineering roles such as design or production trainee.",
+    "source_reference": "Reviews.docx - Gajendran R & Pasupuleti Reviews"
+  },
+  {
+    "id": 171,
+    "category": "Recruiters",
+    "question": "What is the typical internship stipend offered to KARE students?",
+    "answer": "The internship stipend typically varies between INR 8,000 to INR 20,000 per month depending on the company.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 172,
+    "category": "Recruiters",
+    "question": "Does KARE have core company recruiters for non-IT placements?",
+    "answer": "Yes, core companies visit KARE for non-IT placements, though students note that the number of core companies is fewer compared to IT companies.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 173,
+    "category": "Recruiters",
+    "question": "Does Capgemini recruit from KARE?",
+    "answer": "Yes, Capgemini is one of the major companies that recruits from KARE and conducts mass hiring on campus.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 174,
+    "category": "Recruiters",
+    "question": "Does Danfoss recruit from KARE?",
+    "answer": "Yes, Danfoss is listed as one of the frequently visiting companies at KARE for placements.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 175,
+    "category": "Recruiters",
+    "question": "Which banking and financial companies visit KARE for placements?",
+    "answer": "Banking and financial companies that visit KARE include ICICI Bank, Axis Bank, and FSS (Financial Software and Systems).",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 176,
+    "category": "Recruiters",
+    "question": "What programming languages are important for KARE placement interviews?",
+    "answer": "Students are advised to learn C, C++, Python, and Java for placement interview preparation, with special classes conducted by the university.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 177,
+    "category": "Recruiters",
+    "question": "Does Byju's recruit from KARE?",
+    "answer": "Yes, Byju's is listed as one of the frequently visiting companies for placements at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 178,
+    "category": "Recruiters",
+    "question": "Which telecom companies recruit from KARE?",
+    "answer": "Telecom companies that recruit from KARE include Airtel and Gemini Communication Ltd.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 179,
+    "category": "Recruiters",
+    "question": "Are there EdTech companies that recruit from KARE?",
+    "answer": "Yes, EdTech companies such as Byju's, Extra Marks, and Eduvirtuoso recruit from KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 180,
+    "category": "Recruiters",
+    "question": "Do manufacturing companies visit KARE for placements?",
+    "answer": "Yes, manufacturing companies like TEXMO Industries, Loyal Textile Mills, Rane Group, and Ceasefire Industries visit KARE for placements.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 181,
+    "category": "Campus Life",
+    "question": "What is the name of the annual cultural fest at KARE?",
+    "answer": "The annual cultural fest at KARE is called Sparkz, conducted typically in February or March.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 182,
+    "category": "Campus Life",
+    "question": "What events take place at the KARE annual fest?",
+    "answer": "The annual fest includes hackathons, research events, sports, dancing, singing, technical and cultural competitions, and celebrity visits.",
+    "source_reference": "Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 183,
+    "category": "Campus Life",
+    "question": "What are the names of technical fests at KARE?",
+    "answer": "Technical events such as Euphoria, Mirth, and Vintra are conducted every academic year at KARE.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 184,
+    "category": "Campus Life",
+    "question": "What clubs are available at Kalasalingam University?",
+    "answer": "Clubs available include Visakha (dance club), Pyros Club, Sparks Club, Photographic Club, Coding Club, Cultural Club, and Social Service Group, among others.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 185,
+    "category": "Campus Life",
+    "question": "Does KARE have an IEDC cell for entrepreneurship?",
+    "answer": "Yes, KARE has an IEDC (Innovation and Entrepreneurship Development Cell) that supports start-up initiatives among students.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 186,
+    "category": "Campus Life",
+    "question": "Does KARE support students for inter-college competitions?",
+    "answer": "Yes, the management actively sends students to symposiums and competitions within and outside the state to gain exposure and experience.",
+    "source_reference": "Reviews.docx - Yuva Review"
+  },
+  {
+    "id": 187,
+    "category": "Campus Life",
+    "question": "Does KARE offer a semester exchange program with foreign universities?",
+    "answer": "Yes, KARE provides a semester exchange program to other universities in other countries.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 188,
+    "category": "Campus Life",
+    "question": "Are hackathons conducted regularly at KARE?",
+    "answer": "Yes, KARE conducts hackathons every month, and the top 5 teams receive internship opportunities.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 189,
+    "category": "Campus Life",
+    "question": "Do students from different states study at KARE?",
+    "answer": "Yes, students from all over India — including Tamil Nadu, Andhra Pradesh, Kerala, and northern states — study at KARE, creating a diverse environment.",
+    "source_reference": "Reviews.docx - Gajendran R & Aaditya Raj Reviews"
+  },
+  {
+    "id": 190,
+    "category": "Campus Life",
+    "question": "How many projects do students complete per semester at KARE?",
+    "answer": "Each student completes 2 projects per semester (4 in an academic year) with guidance from faculty and research scholars.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 191,
+    "category": "Campus Life",
+    "question": "What is the atmosphere of KARE campus at night?",
+    "answer": "After 8:00 PM, students remain inside the hostel; favorite spots include the hostel common hall, terrace for conversations, and the canteen lawn during allowed hours.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 192,
+    "category": "Campus Life",
+    "question": "What is KARE's stance on student sports participation?",
+    "answer": "KARE supports students in all sports and games, provides sports facilities, and conducts university games meets where well-performing students are sent to inter-university competitions.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 193,
+    "category": "Faculty",
+    "question": "What is the faculty-to-student ratio at KARE?",
+    "answer": "The faculty-to-student ratio is approximately 1:20 to 1:25, with around 250 total faculty members including professors and assistant professors.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 194,
+    "category": "Faculty",
+    "question": "What percentage of KARE faculty hold doctoral degrees?",
+    "answer": "Approximately 90% of the faculty at KARE hold doctoral degrees.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 195,
+    "category": "Faculty",
+    "question": "How are KARE faculty described by students?",
+    "answer": "Faculty members are generally described as qualified, talented, experienced, and supportive, guiding students in both academics and career matters.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 196,
+    "category": "Faculty",
+    "question": "What teaching methodologies does KARE faculty use?",
+    "answer": "Faculty use a mix of traditional lectures, interactive sessions, project-based learning, and online resources including subscription-based platforms included in college fees.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 197,
+    "category": "Faculty",
+    "question": "Does KARE have dedicated sports faculty?",
+    "answer": "Yes, KARE has sports faculty who train students in various sports and games and conduct university games meets.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 198,
+    "category": "Rules & Regulations",
+    "question": "Are there strict rules at KARE?",
+    "answer": "Yes, KARE is known for strict rules and regulations, with fines imposed for violations; some students compare the level of discipline to intermediate-level restrictions.",
+    "source_reference": "Reviews.docx - Chandra sidhardha & Thanikonda venkata karthik Reviews"
+  },
+  {
+    "id": 199,
+    "category": "Rules & Regulations",
+    "question": "Are students fined for rule violations at KARE?",
+    "answer": "Yes, fines are imposed for rule violations at KARE, and the fine amounts can be significant.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 200,
+    "category": "Rules & Regulations",
+    "question": "What are the hostel entry timings at KARE?",
+    "answer": "Boys must return to the hostel by 8:00 PM–9:30 PM (varies by hostel), and girls must return by 6:00–7:00 PM.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 201,
+    "category": "Rules & Regulations",
+    "question": "Is there security in the girls' hostel area at KARE?",
+    "answer": "Yes, KARE maintains strict security for girls' hostels, making it safe for parents to send their daughters.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 202,
+    "category": "Rules & Regulations",
+    "question": "Can students roam outside the campus at night?",
+    "answer": "No, after 10:00 PM no students are allowed to roam on roads outside the campus.",
+    "source_reference": "Reviews.docx - Manisai Polisetty Review"
+  },
+  {
+    "id": 203,
+    "category": "Rules & Regulations",
+    "question": "Can external visitors enter student hostels?",
+    "answer": "No, outsiders and non-hostel students are not allowed inside the hostel premises as per hostel rules.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 204,
+    "category": "Rules & Regulations",
+    "question": "What happens if a student does not pay fees before exams?",
+    "answer": "Students who have not paid their semester fees will not be allowed to sit in the examinations.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 205,
+    "category": "Student Reviews",
+    "question": "What do students most like about KARE?",
+    "answer": "Students appreciate the good placement record, research facilities, experienced faculty, beautiful green campus, proximity to tourist destinations, and free healthcare.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 206,
+    "category": "Student Reviews",
+    "question": "What are common complaints students have about KARE?",
+    "answer": "Common complaints include average hostel food quality, strict rules, poor internet or mobile signal, limited core company placements, and occasional infrastructure issues.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 207,
+    "category": "Student Reviews",
+    "question": "How do students rate KARE's course curriculum?",
+    "answer": "Students generally rate the course curriculum between 3 to 5 out of 5, with most finding it relevant, though some suggest more industry-aligned and real-world examples.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 208,
+    "category": "Student Reviews",
+    "question": "What do students say about placement at KARE?",
+    "answer": "Students generally rate placements 3 to 5 out of 5, mentioning companies like TCS, Infosys, Wipro, and Capgemini, with a 65–75% placement rate, though core placements need improvement.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 209,
+    "category": "Student Reviews",
+    "question": "How do students rate hostel facilities at KARE?",
+    "answer": "Students rate hostel facilities between 2 to 5 out of 5, often praising the room setup and amenities while criticizing food quality.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 210,
+    "category": "Student Reviews",
+    "question": "How do students describe overall campus life at KARE?",
+    "answer": "Students rate campus life between 4 to 5 out of 5, describing it as a good mix of academics, fests, clubs, sports, and exposure to peers from across India.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 211,
+    "category": "Student Reviews",
+    "question": "What do students say about internet connectivity at KARE?",
+    "answer": "Students frequently report poor mobile signal and slow internet connection as significant concerns on campus.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara & Aaditya Raj Reviews"
+  },
+  {
+    "id": 212,
+    "category": "Student Reviews",
+    "question": "What do students say about security for female students at KARE?",
+    "answer": "Students consistently mention that KARE provides high security for female students, with strict management and surveillance in the girls' hostel areas.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 213,
+    "category": "Student Reviews",
+    "question": "Do students receive internship opportunities at KARE?",
+    "answer": "Yes, students mention companies like TCS, Infosys, Wipro, Zoho, IBM, and Capgemini providing internships, with stipends ranging from INR 8,000 to INR 20,000 per month.",
+    "source_reference": "Reviews.docx - Gajendran R & Pasupuleti Reviews"
+  },
+  {
+    "id": 214,
+    "category": "Student Reviews",
+    "question": "What do students say about language barriers at KARE?",
+    "answer": "Students from outside Tamil Nadu or Andhra Pradesh may initially face language barriers, but most students adapt and learn from the diverse peer group over time.",
+    "source_reference": "Reviews.docx - Gajendran R & Aaditya Raj Reviews"
+  },
+  {
+    "id": 215,
+    "category": "Student Reviews",
+    "question": "How do students describe infrastructure at KARE?",
+    "answer": "Most students describe infrastructure as good to excellent, with well-equipped labs and a beautiful campus, though some mention issues with lifts and water supply in certain blocks.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 216,
+    "category": "Student Reviews",
+    "question": "What do B.Tech students say about the course curriculum at KARE?",
+    "answer": "B.Tech students generally find the curriculum well-structured and relevant, with both theory and practical exposure, though some suggest adding more real-world applications and interactive teaching methods.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 217,
+    "category": "General Information",
+    "question": "What is the B.Tech student intake at KARE per NIRF 2026?",
+    "answer": "The B.Tech student intake at KARE is 6,573 (Male: 3,135, Female: 3,438) as per NIRF Ranking 2026.",
+    "source_reference": "Image 13 - B.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 218,
+    "category": "General Information",
+    "question": "What is the M.Tech student intake at KARE per NIRF 2026?",
+    "answer": "The M.Tech student intake at KARE is 219 (Male: 85, Female: 134) as per NIRF Ranking 2026.",
+    "source_reference": "Image 16 - M.Tech Course Listing (NIRF 2026)"
+  },
+  {
+    "id": 219,
+    "category": "Placements",
+    "question": "What is the UG 3rd year median salary in 2021-22?",
+    "answer": "UG 3rd year students in 2021-22 had a median salary of INR 4,25,000, with 530 students graduating and 444 placed.",
+    "source_reference": "Image 5 - UG 3rd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 220,
+    "category": "Placements",
+    "question": "What is the UG 3rd year median salary in 2022-23?",
+    "answer": "UG 3rd year students in 2022-23 had a median salary of INR 4,15,000, with 475 students graduating and 389 placed.",
+    "source_reference": "Image 5 - UG 3rd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 221,
+    "category": "Placements",
+    "question": "What is the PG 2nd year placement data for 2021-22?",
+    "answer": "In 2021-22, 319 PG 2nd year students graduated and 305 were placed with a median salary of INR 5,75,000.",
+    "source_reference": "Image 8 - PG 2nd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 222,
+    "category": "Placements",
+    "question": "What is the UG 5th year placement data for 2021-22?",
+    "answer": "In 2021-22, 39 UG 5th year students graduated and 29 were placed with a median salary of INR 4,30,000.",
+    "source_reference": "Image 7 - UG 5th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 223,
+    "category": "Placements",
+    "question": "Has the number of UG 3rd year placed students changed over years at KARE?",
+    "answer": "Yes, the number of placed UG 3rd year students has slightly declined from 444 in 2021-22 to 389 in 2022-23 and 329 in 2023-24, with median salary also decreasing to INR 4,00,000.",
+    "source_reference": "Image 5 - UG 3rd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 224,
+    "category": "Placements",
+    "question": "What has been the trend in UG 4th year placements over three years at KARE?",
+    "answer": "UG 4th year placements have shown strong performance, with the number of students placed increasing steadily, reaching 1,422 out of 1,593 in 2023-24, though median salary slightly dipped from the peak of INR 6.75 LPA in 2022-23.",
+    "source_reference": "Image 6 - UG 4th Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 225,
+    "category": "Admissions",
+    "question": "Is direct admission possible at KARE without an entrance exam?",
+    "answer": "Students can join KARE by directly visiting the admissions block, submitting required documents, and filling in the form, as the university also accepts merit-based admissions for certain programs.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 226,
+    "category": "Admissions",
+    "question": "What is the BBA eligibility at KARE?",
+    "answer": "BBA at KARE requires 10+2 completion as the eligibility criterion.",
+    "source_reference": "Image 16 - BBA Course Listing"
+  },
+  {
+    "id": 227,
+    "category": "Fees & Scholarships",
+    "question": "What is the scholarship percentage for students with 70% marks in intermediate?",
+    "answer": "Students with 70% marks in intermediate receive a 35% scholarship on tuition fees for eligible branches at KARE.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 228,
+    "category": "Fees & Scholarships",
+    "question": "What is the approximate total cost for a B.Tech student per year including hostel at KARE?",
+    "answer": "A B.Tech student at KARE spends approximately INR 2 Lakhs per year, which includes tuition fee (around INR 1.85 Lakhs for CSE) plus hostel and mess fees starting around INR 80,000.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 229,
+    "category": "Campus Life",
+    "question": "Does KARE have a coding club?",
+    "answer": "Yes, KARE has a coding club along with other clubs like cultural club and social service groups to help students build skills and networks.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 230,
+    "category": "Campus Life",
+    "question": "Are there field trips organized at KARE?",
+    "answer": "Yes, KARE organizes field trips that are related to the respective courses, providing practical exposure outside the campus.",
+    "source_reference": "Reviews.docx - Yuva Review"
+  },
+  {
+    "id": 231,
+    "category": "Hostel & Facilities",
+    "question": "Are students allowed to leave the hostel for NCC or NSS activities in the morning?",
+    "answer": "Yes, hostel gates open at 4:00 AM for NCC and NSS members who need to go for early morning sports and activities.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 232,
+    "category": "General Information",
+    "question": "Does KARE have a total of 1900 plus placement offers?",
+    "answer": "Yes, according to the university's official data, KARE has recorded a total of 1,900+ placement offers in recent years.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 233,
+    "category": "Placements",
+    "question": "What do student reviews say about KARE's highest placement package?",
+    "answer": "Student reviews mention the highest salary package offered was INR 54 LPA, while official sources state INR 50 LPA.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 234,
+    "category": "Placements",
+    "question": "Are BPOs and non-core companies also part of KARE placements?",
+    "answer": "Yes, non-core companies and BPOs frequently offer positions at KARE, though typically with lower salary packages compared to core IT companies.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 235,
+    "category": "Faculty",
+    "question": "How do faculty support students in research activities at KARE?",
+    "answer": "Faculty are always helpful for students doing research; they guide students in projects, research publications, and encourage showcasing work at events conducted by various universities.",
+    "source_reference": "Reviews.docx - Aaditya Raj & Guru Vinitha Reviews"
+  },
+  {
+    "id": 236,
+    "category": "Rules & Regulations",
+    "question": "What is the sessional exam marking scheme at KARE?",
+    "answer": "Each sessional exam (Sessional 1 and Sessional 2) is for 50 marks, with each contributing 17.5% to the final marks, and the end-semester exam contributes 50%.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 237,
+    "category": "Hostel & Facilities",
+    "question": "Is the hostel allotment first-come-first-served at KARE?",
+    "answer": "Yes, hostel allotment is done on a first-come-first-served basis, and students are advised to register early.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 238,
+    "category": "General Information",
+    "question": "Is KARE accredited by NBA?",
+    "answer": "Yes, Kalasalingam University is accredited by the NBA (National Board of Accreditation).",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 239,
+    "category": "General Information",
+    "question": "Is KARE accredited by ABET?",
+    "answer": "Yes, Kalasalingam University is accredited by ABET, an international accreditation body for engineering and technology programs.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 240,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the M.Tech program at KARE?",
+    "answer": "The M.Tech program at KARE is a 2-year full-time program requiring graduation with 50% and GATE score.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 241,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the MBA program at KARE?",
+    "answer": "The MBA program at KARE is a 2-year full-time program requiring graduation with 60% and a valid CAT score.",
+    "source_reference": "Image 14 - MBA Course Listing"
+  },
+  {
+    "id": 242,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the MCA program at KARE?",
+    "answer": "The MCA program at KARE is a 2-year full-time program requiring graduation with 60%.",
+    "source_reference": "Image 15 - MCA Course Listing"
+  },
+  {
+    "id": 243,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the Ph.D program at KARE?",
+    "answer": "The Ph.D program at KARE is a 3-year full-time program requiring Post Graduation in a relevant field.",
+    "source_reference": "Image 13 - Ph.D Course Listing"
+  },
+  {
+    "id": 244,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the B.Tech program at KARE?",
+    "answer": "The B.Tech program at KARE is a 4-year full-time program with 10+2 and 50% plus JEE Main as eligibility.",
+    "source_reference": "Image 13 - B.Tech Course Listing"
+  },
+  {
+    "id": 245,
+    "category": "Courses & Departments",
+    "question": "What is the duration of the B.Sc program at KARE?",
+    "answer": "The B.Sc program at KARE is a 3-year full-time program with 10+2 with 50% as eligibility.",
+    "source_reference": "Image 14 - B.Sc Course Listing"
+  },
+  {
+    "id": 246,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer a B.Tech in Mechanical Engineering?",
+    "answer": "Yes, KARE offers B.Tech in Mechanical Engineering as one of its 19 B.Tech programs, with a tuition fee of approximately INR 1 Lakh per year.",
+    "source_reference": "Reviews.docx - Gajendran R Review & Image 13"
+  },
+  {
+    "id": 247,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer Computer Science Engineering B.Tech with Cybersecurity?",
+    "answer": "Yes, KARE offers B.Tech in Cybersecurity as part of its Computer Science Engineering offerings.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik Review"
+  },
+  {
+    "id": 248,
+    "category": "Courses & Departments",
+    "question": "What is the Collegedunia rating for KARE's B.Tech program?",
+    "answer": "KARE's B.Tech program has a rating of 3.7 stars based on 233 reviews on Collegedunia.",
+    "source_reference": "Image 13 - B.Tech Course Listing"
+  },
+  {
+    "id": 249,
+    "category": "Courses & Departments",
+    "question": "What is the Collegedunia rating for KARE's MBA program?",
+    "answer": "KARE's MBA program has a rating of 4.1 stars based on 5 reviews on Collegedunia.",
+    "source_reference": "Image 14 - MBA Course Listing"
+  },
+  {
+    "id": 250,
+    "category": "Courses & Departments",
+    "question": "What is the Collegedunia rating for KARE's B.Sc program?",
+    "answer": "KARE's B.Sc program has a rating of 3.3 stars based on 7 reviews on Collegedunia.",
+    "source_reference": "Image 14 - B.Sc Course Listing"
+  },
+  {
+    "id": 251,
+    "category": "Courses & Departments",
+    "question": "What is the Collegedunia rating for KARE's B.Com program?",
+    "answer": "KARE's B.Com program has a rating of 4.5 stars based on 4 reviews on Collegedunia.",
+    "source_reference": "Image 17 - B.Com Course Listing"
+  },
+  {
+    "id": 252,
+    "category": "Courses & Departments",
+    "question": "Does KARE offer B.Tech in Computer Science with AI and Machine Learning?",
+    "answer": "Yes, KARE offers B.Tech in Computer Science and Engineering with AI and Machine Learning specialization, as confirmed by student reviewers.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 253,
+    "category": "Campus Life",
+    "question": "Does KARE conduct annual cultural events?",
+    "answer": "Yes, KARE conducts annual cultural events called Sparkz (Euphoria 2025 is a recent example) in March, featuring hackathons, research, sports, dance, and singing.",
+    "source_reference": "Reviews.docx - Aaditya Raj & Chandra sidhardha Reviews"
+  },
+  {
+    "id": 254,
+    "category": "Campus Life",
+    "question": "What are the facilities available during the day at KARE?",
+    "answer": "During the day, students can access the gym, library, sports grounds (cricket, football, tennis, badminton), cafeterias, coding lab, and attend club activities.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 255,
+    "category": "Hostel & Facilities",
+    "question": "Do hostels have laundry services at KARE?",
+    "answer": "Yes, laundry services are included as part of the hostel facilities at KARE.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 256,
+    "category": "Hostel & Facilities",
+    "question": "Are the hostel rooms furnished?",
+    "answer": "Yes, each hostel room has a bed, chair, table, cupboard with lock, and dressing table for every occupant.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 257,
+    "category": "Hostel & Facilities",
+    "question": "What types of rooms are the most and least expensive in KARE hostels?",
+    "answer": "The most expensive hostel option is AC attached 4-bed rooms at around INR 1.4 Lakhs per annum, and the least expensive is a non-AC non-attached 5-bed room starting from approximately INR 65,000.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 258,
+    "category": "Admissions",
+    "question": "What entrance exams are used for M.Tech admissions at KARE?",
+    "answer": "M.Tech admissions at KARE require a valid GATE score along with graduation with minimum 50% marks.",
+    "source_reference": "Image 16 - M.Tech Course Listing"
+  },
+  {
+    "id": 259,
+    "category": "Admissions",
+    "question": "What is the eligibility for B.Sc (Nursing) admission?",
+    "answer": "B.Sc (Nursing) requires 10+2 with Physics, Chemistry, Biology, and English subjects, and admission is merit-based with eligibility screening.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 260,
+    "category": "Admissions",
+    "question": "What is the Collegedunia ranking for KARE's B.Tech lateral program?",
+    "answer": "KARE's B.Tech Lateral program is ranked #257 out of 500 by Collegedunia.",
+    "source_reference": "Image 17 - B.Tech Lateral Course Listing"
+  },
+  {
+    "id": 261,
+    "category": "General Information",
+    "question": "Does KARE offer both UG and PG programs?",
+    "answer": "Yes, KARE offers a comprehensive range of UG programs (B.Tech, B.Sc, B.Com, BBA, BArch, BA+LLB, BSc Nursing) and PG programs (MBA, MCA, M.Tech, M.Sc) along with Ph.D programs.",
+    "source_reference": "Images 13-17 - Course Listings"
+  },
+  {
+    "id": 262,
+    "category": "General Information",
+    "question": "How many total placement offers does KARE have on record?",
+    "answer": "KARE has recorded 1,900+ placement offers in recent years according to the university's official website data.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 263,
+    "category": "Placements",
+    "question": "What is the average package range as mentioned by student reviews?",
+    "answer": "Student reviews mention an average package range of INR 4 to INR 8.5 LPA at KARE, with the typical average around INR 4.5 LPA.",
+    "source_reference": "Image 11 - Students' Opinion & Reviews.docx"
+  },
+  {
+    "id": 264,
+    "category": "Placements",
+    "question": "Are placement sessions conducted before the actual placement season?",
+    "answer": "Yes, the Placement and Training Cell conducts aptitude training, technical sessions, soft skills workshops, and mock interviews well before the placement season begins.",
+    "source_reference": "Image 9 - Placement FAQ"
+  },
+  {
+    "id": 265,
+    "category": "Recruiters",
+    "question": "Which companies are involved in mass hiring at KARE?",
+    "answer": "Companies like TCS and Capgemini are known for conducting mass hiring drives at KARE campus.",
+    "source_reference": "Reviews.docx - Aaditya Raj Review"
+  },
+  {
+    "id": 266,
+    "category": "Recruiters",
+    "question": "Does KARE have tie-ups with Healthwatch Telediagnostics?",
+    "answer": "Yes, Healthwatch Telediagnostics Pvt Ltd is listed among the frequently visiting companies at KARE for placements.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 267,
+    "category": "Recruiters",
+    "question": "Does KARE have engineering and energy sector recruiters?",
+    "answer": "Yes, BGR Energy Systems Limited and Mitsuba Sical India Pvt Ltd are among engineering and energy sector companies that recruit from KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 268,
+    "category": "Recruiters",
+    "question": "Is Wipro a recruiter at KARE?",
+    "answer": "Yes, Wipro is one of the frequently visiting companies for placements and internships at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 269,
+    "category": "Recruiters",
+    "question": "Does Infosys recruit from KARE?",
+    "answer": "Yes, Infosys is listed as one of the top recruiters and frequently visiting companies at KARE.",
+    "source_reference": "Image 1 & Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 270,
+    "category": "Recruiters",
+    "question": "What is the role of Accenture in KARE placements?",
+    "answer": "Accenture is one of the top recruiters at KARE, offering campus placements and internship opportunities to eligible students.",
+    "source_reference": "Image 4 - Placement Statistics & Image 12"
+  },
+  {
+    "id": 271,
+    "category": "Campus Life",
+    "question": "What is the name of KARE's dance club?",
+    "answer": "The dance club at KARE is called Visakha, and students can join it based on their interest.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 272,
+    "category": "Campus Life",
+    "question": "Are there individual project opportunities for students at KARE?",
+    "answer": "Yes, students complete 2 projects per semester under faculty and research scholar guidance, and are encouraged to present at events organized by various universities.",
+    "source_reference": "Reviews.docx - Guru Vinitha Review"
+  },
+  {
+    "id": 273,
+    "category": "Faculty",
+    "question": "What qualifications do KARE faculty typically hold?",
+    "answer": "Faculty members at KARE typically hold postgraduate or doctoral degrees in their respective fields, with approximately 90% holding doctorates.",
+    "source_reference": "Reviews.docx - Thanikonda venkata karthik Review & Gajendran R Review"
+  },
+  {
+    "id": 274,
+    "category": "Faculty",
+    "question": "Are faculty interactive and supportive at KARE?",
+    "answer": "Yes, faculty at KARE are described as interactive and supportive, often helping students beyond academics in career guidance, research, and personal development.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 275,
+    "category": "Student Reviews",
+    "question": "What overall rating do students give KARE?",
+    "answer": "Students generally rate KARE positively, with most reviews rating overall experience between 3.5 to 5 out of 5, citing strong placements, good faculty, and beautiful campus environment.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 276,
+    "category": "Student Reviews",
+    "question": "Do students recommend Kalasalingam University?",
+    "answer": "Most students recommend KARE based on its placement record, merit-based scholarships, affordable fees compared to other private universities, faculty quality, and campus environment.",
+    "source_reference": "Reviews.docx - Multiple Student Reviews"
+  },
+  {
+    "id": 277,
+    "category": "Student Reviews",
+    "question": "What feedback do KARE students give about training for placements?",
+    "answer": "Students mention that KARE provides extensive training in programming and soft skills through the Placement and Training Cell, which is appreciated for enhancing employability.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 278,
+    "category": "Hostel & Facilities",
+    "question": "Does KARE have a photographic club?",
+    "answer": "Yes, KARE has a Photographic Club as one of its student activity clubs on campus.",
+    "source_reference": "Reviews.docx - Pasupuleti Amareswara Review"
+  },
+  {
+    "id": 279,
+    "category": "Hostel & Facilities",
+    "question": "Do hostel rooms have individual lockers?",
+    "answer": "Yes, each student in the hostel is provided an individual locker (cupboard) for their belongings.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 280,
+    "category": "Placements",
+    "question": "Does KARE encourage entrepreneurship among students?",
+    "answer": "Yes, KARE has an IEDC (Innovation and Entrepreneurship Development Cell) that encourages entrepreneurship and supports start-up initiatives among students.",
+    "source_reference": "Image 11 - Students' Opinion"
+  },
+  {
+    "id": 281,
+    "category": "Admissions",
+    "question": "Does KARE offer admissions based on merit without an entrance exam?",
+    "answer": "Yes, for certain programs like B.Sc, B.Com, and BBA, KARE offers merit-based admissions without a mandatory entrance exam.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 282,
+    "category": "Admissions",
+    "question": "What is the minimum percentage for B.Sc admission at KARE?",
+    "answer": "B.Sc admission at KARE requires 10+2 from a recognized board, and the minimum percentage criterion is 50%.",
+    "source_reference": "Image 3 - Admissions Process 2026"
+  },
+  {
+    "id": 283,
+    "category": "Courses & Departments",
+    "question": "Is B.Com (Computer Applications) available at KARE?",
+    "answer": "Yes, KARE offers B.Com in Computer Applications as one of its 3 B.Com courses, as confirmed in the course listing and student reviews.",
+    "source_reference": "Image 17 - B.Com Course Listing & Reviews.docx - Yuva Review"
+  },
+  {
+    "id": 284,
+    "category": "General Information",
+    "question": "Does KARE offer MBA with CAT as entry requirement?",
+    "answer": "Yes, MBA at KARE requires graduation with 60% and a valid CAT score (or MAT/TANCET/Kalasalingam Test) for admission.",
+    "source_reference": "Image 14 - MBA Course Listing"
+  },
+  {
+    "id": 285,
+    "category": "General Information",
+    "question": "Is KARE affiliated with any central body for research?",
+    "answer": "KARE is a deemed-to-be university accredited by NBA and ABET, approved by UGC, AICTE, and COA, and holds A++ NAAC grade, making it an autonomous research-focused university.",
+    "source_reference": "Image 1 - General Overview"
+  },
+  {
+    "id": 286,
+    "category": "Placements",
+    "question": "What is the placement record for PG 2nd year in 2022-23 at KARE?",
+    "answer": "In 2022-23, 268 PG 2nd year students graduated and 217 were placed with a peak median salary of INR 5,90,000.",
+    "source_reference": "Image 8 - PG 2nd Year NIRF Placement Report 2025"
+  },
+  {
+    "id": 287,
+    "category": "Recruiters",
+    "question": "Is SPIC a recruiter at KARE?",
+    "answer": "Yes, SPIC (South Petrochemical Industries Corporation) is listed as one of the frequently visiting companies at KARE for placements.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 288,
+    "category": "Recruiters",
+    "question": "Does Syntel recruit from KARE?",
+    "answer": "Yes, Syntel is listed as one of the frequently visiting companies for placements at KARE.",
+    "source_reference": "Image 12 - Frequently Visited Companies"
+  },
+  {
+    "id": 289,
+    "category": "Campus Life",
+    "question": "Does KARE have a social service club?",
+    "answer": "Yes, KARE has a Social Service Group among its clubs, encouraging community involvement alongside academics.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 290,
+    "category": "Hostel & Facilities",
+    "question": "Are there food options near the KARE campus for students?",
+    "answer": "Yes, there are tea shops, small cafes, and food stalls near the campus gate, and the area within 300 metres is described as safe with accessible food options.",
+    "source_reference": "Reviews.docx - Gajendran R Review"
+  },
+  {
+    "id": 291,
+    "category": "Fees & Scholarships",
+    "question": "Do scholarship amounts remain fixed for all 4 years of B.Tech at KARE?",
+    "answer": "Scholarships at KARE are primarily awarded at the time of admission based on 12th marks; the tuition fee may change in subsequent years, but the scholarship basis is set at admission.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 292,
+    "category": "Admissions",
+    "question": "Are there any caste-based reservations for KARE scholarships?",
+    "answer": "No, KARE's scholarships are entirely merit-based and not based on caste; they are calculated purely on 10+2 percentage.",
+    "source_reference": "Reviews.docx - Chandra sidhardha Review"
+  },
+  {
+    "id": 293,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after B.Tech CSE at KARE?",
+    "answer": "Popular job roles after B.Tech CSE include Software Developer, Applications Engineer, Solutions Engineer, Information Technology roles, and Senior SAP Consultant.",
+    "source_reference": "chatbot_infoziant_.docx - B.Tech CSE Course Description"
+  },
+  {
+    "id": 294,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after MBA at KARE?",
+    "answer": "Popular job roles after MBA include Human Resources Manager, Operations Manager, Marketing Manager, and Relationship Manager.",
+    "source_reference": "chatbot_infoziant_.docx - MBA Course Description"
+  },
+  {
+    "id": 295,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after MCA at KARE?",
+    "answer": "Popular job roles after MCA include Software Engineer, Software Developer, Data Engineer, and Java Programmer.",
+    "source_reference": "chatbot_infoziant_.docx - MCA Course Description"
+  },
+  {
+    "id": 296,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after B.Tech Mechanical Engineering at KARE?",
+    "answer": "Popular job roles after B.Tech Mechanical include Mechanical Engineer, Mechanical Design Engineer, and Senior Mechanical Engineer.",
+    "source_reference": "chatbot_infoziant_.docx - B.Tech Mechanical Course Description"
+  },
+  {
+    "id": 297,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after B.Tech ECE at KARE?",
+    "answer": "Popular job roles after B.Tech ECE include Electronics Engineer, Electrical Engineer, and Systems Administrator.",
+    "source_reference": "chatbot_infoziant_.docx - B.Tech ECE Course Description"
+  },
+  {
+    "id": 298,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after B.Com at KARE?",
+    "answer": "Popular job roles after B.Com include Chartered Accountant, Accounting Analyst, Equity Analyst, and Financial Analyst.",
+    "source_reference": "chatbot_infoziant_.docx - B.Com Course Description"
+  },
+  {
+    "id": 299,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after BBA at KARE?",
+    "answer": "Popular job roles after BBA include Financial Analyst, Marketing Executive, Business Analyst, Finance/Banking roles, and Risk Control Analyst.",
+    "source_reference": "chatbot_infoziant_.docx - BBA Course Description"
+  },
+  {
+    "id": 300,
+    "category": "Courses & Departments",
+    "question": "What are popular job roles after B.Sc Nursing at KARE?",
+    "answer": "Popular job roles after B.Sc Nursing include Staff Nurse, Registered Nurse, Nurse Educator, and Operating Room Nurse.",
+    "source_reference": "chatbot_infoziant_.docx - B.Sc Nursing Course Description"
+  }
 ]
